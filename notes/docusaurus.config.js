@@ -31,7 +31,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'fr', 'es-ES'],
   },
 
   presets: [
@@ -80,6 +80,9 @@ const config = {
           },
           {to: '/blog', label: 'Attachments', position: 'left'},
           {to: '/blog', label: 'Appendices', position: 'left'},
+          {to: '/blog', label: 'Tables', position: 'left'},
+          {to: '/blog', label: 'Figures', position: 'left'},
+          {to: '/blog', label: 'Graphs', position: 'left'},
           {
             href: 'https://mogawaeng.com/index.html',
             label: 'Report PDF',

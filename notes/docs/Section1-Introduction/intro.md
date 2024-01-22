@@ -19,15 +19,15 @@ This WQIP Annual Report summarizes WQIP implementation during the applicable rep
 
 The objective of the Annual Report is to present the implementation outcomes of the WQIP and corresponding JRMPs, progress toward WQIP numeric goals, and monitoring and assessment program findings (Figure 1). While the MS4 Permit dictates compliance requirements for plan development, implementation, and reporting, the implementation information in this annual report is presented without specific MS4 Permit references for easier readability. Appendix A provides details regarding specific MS4 Permit requirements and their location within the Annual Report for compliance clarity.
 
-WQIP Update
+### WQIP Update
 
 The RAs submitted a revised WQIP in September 2021, and the RWQCB accepted the [2021 WQIP](https://projectcleanwater.org/download/carlsbad-wma-wqip-updated-2021/) on December 13, 2021. The update focused on the Agua Hedionda HA, specifically to analyze bacteria data concerning the impacts of the beneficial uses (Shellfish Harvesting and Contact Recreation Use) in the Agua Hedionda Lagoon and tributaries (see Section 5.1.1 of this report for more details on the update). This Annual Report reflects implementation efforts of the September 2021 WQIP.
 
-WQIP Annual Report Comment Letter
+### WQIP Annual Report Comment Letter
 
 On August 30, 2022, the RAs received a comment letter from the RWQCB, 2020-2021 Water Quality Improvement Plan (WQIP) Annual Report Review: Carlsbad Watershed Management Area (WMA) WQIP. The comment letter requested responses to the comments, and Appendix B of this report provides the comment letter and a summary of the responses.
 
-COVID-19 Pandemic
+### COVID-19 Pandemic
 
 A national public health emergency was declared in March 2020 in response to the coronavirus COVID-19 pandemic. During these unprecedented times, RAs adjusted strategy implementation and schedules to ensure the health and safety of their staff and public while also maintaining compliance with regulations, including but not limited to the MS4 Permit, NPDES permits, and waste discharge requirements (WDRs) issued by the RWQCB. Since March 2020, and during the reporting period, coordination efforts and meetings were held virtually to safely continue engagement during the pandemic.
 
@@ -39,14 +39,14 @@ As a result of the pandemic, RAs evaluated budgets, programs, and services in li
 
 In August 2020, RWQCB staff sent an email confirming the RAs could modify annual submittals and perform streamlined assessments. Per the RWQCB, the streamlined assessments, included in Attachment 4 of this annual report can be used until after the planned Regional MS4 Permit reissuance is completed.
 
-### 1.1 Carlsbad Watershed Management Area
+## 1.1 Carlsbad Watershed Management Area
 The Carlsbad WMA is approximately 211 square miles (sq. mi.) and includes six individual hydrologic areas (HAs) in northern San Diego County. The WMA contains the entire cities of Carlsbad, San Marcos, and Encinitas and portions of Oceanside, Vista, Escondido, Solana Beach, and San Diego County unincorporated areas. The WMA is bordered by the San Luis Rey River WMA to the north and the San Dieguito River WMA to the south, Figure 2. The Carlsbad WMA reaches inland nearly 24 miles to just northeast of Lake Wohlford. The maximum elevation of the WMA is approximately 2,400 feet, and it extends to sea level at the Pacific Ocean. Various land uses are present, including residential, commercial, industrial, freeways, agriculture, and vacant/undeveloped areas. About 75% of the land is privately owned. The Carlsbad WMA is the third most densely populated watershed in the San Diego Region.
 
 The Carlsbad WMA includes waterways and lagoons that serve as significant cultural, recreational, economic, and environmental resources that provide critical habitats for birds, fish, and plants. RAs establish and implement programs to protect, restore, and enhance WMA conditions while working together to have comprehensive WMA and HA planning efforts. The RAs’ desired outcome for the Carlsbad WMA is to improve water quality conditions of wet weather MS4 discharges and receiving waters as well as eliminate non-storm water and illicit MS4 discharges through the implementation of storm water programs. These efforts are aligned with the overarching WQIP goal to protect, preserve, enhance, and restore water quality and designated beneficial uses of waterways.
 
 The Carlsbad WMA HAs include Loma Alta, Buena Vista Creek, Agua Hedionda, Encinas, San Marcos, and Escondido Creek, all of which have different discharge points to lagoons or the Pacific Ocean (Figure 3). Due to the impoundment of waters at Lake San Marcos, the San Marcos HA is effectively split into two separate drainage areas: the drainage area above Lake San Marcos (also known as Upper San Marcos HA); and the drainage area below Lake San Marcos (also known as Lower San Marcos HA).
 
-The RAs within the Carlsbad WMA include the following eight municipalities:
+### The RAs within the Carlsbad WMA include the following eight municipalities:
 
 |  |  |
 |----------|----------|
@@ -57,7 +57,7 @@ The RAs within the Carlsbad WMA include the following eight municipalities:
 
 The WMA composition by jurisdictional land area for each of the six HAs is presented in Table 1 below.
 
-Table 1: Juristdictional Breakdown of Carlsbad WMA
+### Table 1: Juristdictional Breakdown of Carlsbad WMA
 | Watershed (HA No.)      | Ultimate Receiving Waterbody | Size (mi^2^) | % of VMA | Jurisdictional Percentage Breakdown                         |
 |-------------------------|-----------------------------|----------------|----------|--------------------------------------------------------------------|
 | Carlsbad WMA (904)     | Pacific Ocean   | 100            | 20  | Carlsbad | Encinitas | Escondido | Oceanside | San Marcos | Solana Beach | Vista | County of San Diego |
@@ -67,9 +67,9 @@ Table 1: Juristdictional Breakdown of Carlsbad WMA
 
 - Add later
 
-Figure 3: Carlsbad Watershed Management Area
+### Figure 3: Carlsbad Watershed Management Area
 
-### 1.2 Document Organization
+## 1.2 Document Organization
 The WQIP Annual Report for FY22 is organized as follows:
 
 **Section 1 Introduction.** This section provides an overview of the background and purpose of the report and a description of the watershed.
