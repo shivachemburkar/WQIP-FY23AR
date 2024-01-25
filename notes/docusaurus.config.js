@@ -83,6 +83,7 @@ const config = {
           {to: '/blog', label: 'Tables', position: 'left'},
           {to: '/blog', label: 'Figures', position: 'left'},
           {to: '/blog', label: 'Graphs', position: 'left'},
+          {to: '/blog', label: 'Goals Progress', position: 'left'},
           {
             href: 'https://mogawaeng.com/index.html',
             label: 'Report PDF',
