@@ -14,8 +14,8 @@ The purpose of the WQIP is to guide the Responsible Agencies’ jurisdictional a
 
 This WQIP Annual Report summarizes WQIP implementation during the applicable reporting periods:
 
-- JRMP and WQIP implementation period, July 1, 2021, through June 30, 2022 [Fiscal Year (FY) 22]; and
-- monitoring and assessment program period, October 1, 2021, through September 30, 2022.
+- JRMP and WQIP implementation period, July 1, 2022, through June 30, 2023 [Fiscal Year (FY) 23]; and
+- monitoring and assessment program period, October 1, 2022, through September 30, 2023.
 
 The objective of the Annual Report is to present the implementation outcomes of the WQIP and corresponding JRMPs, progress toward WQIP numeric goals, and monitoring and assessment program findings (Figure 1). While the MS4 Permit dictates compliance requirements for plan development, implementation, and reporting, the implementation information in this annual report is presented without specific MS4 Permit references for easier readability. Appendix A provides details regarding specific MS4 Permit requirements and their location within the Annual Report for compliance clarity.
 
@@ -25,19 +25,21 @@ The RAs submitted a revised WQIP in September 2021, and the RWQCB accepted the [
 
 ### WQIP Annual Report Comment Letter
 
-On August 30, 2022, the RAs received a comment letter from the RWQCB, 2020-2021 Water Quality Improvement Plan (WQIP) Annual Report Review: Carlsbad Watershed Management Area (WMA) WQIP. The comment letter requested responses to the comments, and Appendix B of this report provides the comment letter and a summary of the responses.
+The RAs received a June 19, 2023 comment letter from the RWQCB, 2021-2022 Water Quality Improvement Plan (WQIP) Annual Report Review: Carlsbad Watershed Management Area (WMA). Appendix B of this report provides the comment letter and RA’s September 6, 2023 response letter. 
 
-### COVID-19 Pandemic
+The letter requests the following items to be included in the FY23 CWMA WQIP Annual Report:
+- 	By January 31, 2024, the WQIP Copermittees must assess if the Bight ’23 monitoring program also meets the monitoring requirements for the State Sediment Control Plan required under D.1.e(2) according to the San Diego Water Board’s email sent to all Copermittees dated 1/27/23.                                                                                   
+*The Carlsbad WMA Copermittees confirm that the Bight ’23 monitoring program meets the monitoring requirements for the State Sediment Control Plan required under MS4 Permit Provision D.1.e(2).*
+- With the data collected to comply with Resolution R9-2014-0020, by the next WQIP Annual Report due January 31, 2024, the City of Oceanside shall:
 
-A national public health emergency was declared in March 2020 in response to the coronavirus COVID-19 pandemic. During these unprecedented times, RAs adjusted strategy implementation and schedules to ensure the health and safety of their staff and public while also maintaining compliance with regulations, including but not limited to the MS4 Permit, NPDES permits, and waste discharge requirements (WDRs) issued by the RWQCB. Since March 2020, and during the reporting period, coordination efforts and meetings were held virtually to safely continue engagement during the pandemic.
+1.	    Tabulate all collected monitoring data (2016- 2022) into a single Excel spreadsheet format,
+2.	    Submit supporting documentation that shows all data collected was uploaded into the California Environmental Data Exchange Network (CEDEN) website,
+3.	    Present data trends from 2016-2022 for nitrogen, phosphorus, dissolved oxygen, macro algae biomass and cover,
+4.	    Show nitrogen and phosphorus ratios for each month where data was collected between 2016-2022, and 
+5.	    Analyze/discuss relationships with phosphorus and algae, and nitrogen and algae.                                                                                             *The City of Oceanside responded to this request in the September 6th, 2023 letter, Appendix B, and provides requested data in Attachment 1 of this report.*
+- By the next WQIP Annual Report due January 31, 2024, the City of Oceanside shall identify what adaptive management strategies will be used to periodically check on conditions in Loma Alta Slough now that the monitoring required to comply with R9-2014-0020 has concluded. Since Loma Alta Slough continues to be 303(d) listed for Eutrophication, the City of Oceanside shall assess the effectiveness of actions to date and consider potential revisions to numeric goals, strategies, and schedules for the Loma Alta HA listed in the Carlsbad WQIP.                                                                                                                                                                              *The City of Oceanside responded to this request in the September 6th, 2023 letter, Appendix B. The city is continuing to implement all Oceanside strategies identified in the Carlsbad WMA WQIP.*
 
-As a result of the pandemic, RAs evaluated budgets, programs, and services in light of fiscal impacts. The RAs within the San Diego Region requested regulatory relief from the following assessments provided in annual reports:
 
-- MS4 outfall non-storm water discharges reduction assessment
-
-- MS4 outfall storm water pollutant discharges reduction assessment
-
-In August 2020, RWQCB staff sent an email confirming the RAs could modify annual submittals and perform streamlined assessments. Per the RWQCB, the streamlined assessments, included in Attachment 4 of this annual report can be used until after the planned Regional MS4 Permit reissuance is completed.
 
 ## 1.1 Carlsbad Watershed Management Area
 The Carlsbad WMA is approximately 211 square miles (sq. mi.) and includes six individual hydrologic areas (HAs) in northern San Diego County. The WMA contains the entire cities of Carlsbad, San Marcos, and Encinitas and portions of Oceanside, Vista, Escondido, Solana Beach, and San Diego County unincorporated areas. The WMA is bordered by the San Luis Rey River WMA to the north and the San Dieguito River WMA to the south, Figure 2. The Carlsbad WMA reaches inland nearly 24 miles to just northeast of Lake Wohlford. The maximum elevation of the WMA is approximately 2,400 feet, and it extends to sea level at the Pacific Ocean. Various land uses are present, including residential, commercial, industrial, freeways, agriculture, and vacant/undeveloped areas. About 75% of the land is privately owned. The Carlsbad WMA is the third most densely populated watershed in the San Diego Region.
