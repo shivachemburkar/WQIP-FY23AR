@@ -1,0 +1,8 @@
+{
+    "label": "Attachments",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "Quickly navigate to each Attachment to the CWMA Report"
+    }
+  }

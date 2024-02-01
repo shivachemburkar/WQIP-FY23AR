@@ -3,6 +3,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import imgMap from '../../static/img/CWMA.png';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
@@ -19,15 +20,15 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            Full Report PDF - 5min ⏱️
+            to="/docs/Carlsbad-Watershed-Management-Area">
+            Let's Get Started!
           </Link>
         </div>
       </div>
     </header>
   );
 }
-
+// ⏱️
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -37,6 +38,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        
       </main>
     </Layout>
   );

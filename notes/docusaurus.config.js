@@ -8,9 +8,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Carlsbad Watershed Management Area WQIP FY21/22 Annual Report',
+  title: 'Carlsbad Watershed Management Area WQIP FY22/23 Annual Report',
   tagline: 'Progress on water quality improvement goals',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'Mikhail Ogawa Engineering', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -43,16 +43,9 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -64,28 +57,44 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/logo.png',
       navbar: {
         title: 'Home',
         logo: {
           alt: 'Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'fullReportSidebar',
             position: 'left',
             label: 'Full Report Breakdown',
           },
-          {to: '/blog', label: 'Attachments', position: 'left'},
-          {to: '/blog', label: 'Appendices', position: 'left'},
-          {to: '/blog', label: 'Tables', position: 'left'},
-          {to: '/blog', label: 'Figures', position: 'left'},
-          {to: '/blog', label: 'Graphs', position: 'left'},
-          {to: '/blog', label: 'Goals Progress', position: 'left'},
           {
-            href: 'https://mogawaeng.com/index.html',
+            type: 'docSidebar',
+            sidebarId: 'summaryReportSidebar',
+            position: 'left',
+            label: 'Goals Progress',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'appendicesSidebar',
+            docId: 'Appendices/overview',
+            position: 'left',
+            label: 'Appendices',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'attachmentsSidebar',
+            docId: 'Attachments/Attachments',
+            position: 'left',
+            label: 'Attachments',
+          },
+
+          // {to: '/wqipgoals', label: 'Goals Progress', position: 'left'},
+          {
+            href: 'https://projectcleanwater.org/download/carlsbad-wma-wqip-updated-2021/',
             label: 'Report PDF',
             position: 'right',
           },
@@ -102,8 +111,8 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'Attachments',
-                to: '/docs/intro',
+                label: 'Water Quality Improvement Results',
+                to: '/wqipgoals',
               },
               {
                 label: 'Appendices',
