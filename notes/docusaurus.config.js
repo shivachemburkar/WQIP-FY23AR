@@ -69,14 +69,9 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'fullReportSidebar',
             position: 'left',
-            label: 'Full Report Breakdown',
+            label: 'Comprehensive Report',
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'summaryReportSidebar',
-            position: 'left',
-            label: 'Goals Progress',
-          },
+          
           {
             type: 'docSidebar',
             sidebarId: 'appendicesSidebar',
@@ -90,6 +85,18 @@ const config = {
             docId: 'Attachments/Attachments',
             position: 'left',
             label: 'Attachments',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'summaryReportSidebar',
+            position: 'left',
+            label: 'Numeric Goals Progress',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'summaryReportSidebar',
+            position: 'left',
+            label: 'Numeric Goals Progress',
           },
 
           // {to: '/wqipgoals', label: 'Goals Progress', position: 'left'},
