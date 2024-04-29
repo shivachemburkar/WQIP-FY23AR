@@ -12,17 +12,22 @@ The RAs implement strategies as part of their JRMPs and WQIP(s). A compilation o
 
 Over $17.9 million in RA program implementation expenditures were reported in FY22 to improve water quality within the Carlsbad WMA. This total expenditure includes funding for implementing over 70 strategies throughout the WMA, which contribute to improving or protecting water quality. The expenditures include jurisdictional program implementation, which, when combined as a watershed, resulted in the following outcomes2:
 
-- 2,265 investigations of non-storm water discharges conducted
-- 1,890 non-storm water discharges eliminated
-- 1,695 illicit discharges/connections eliminated
-- 6,358 construction site inspections
-- 4,524 existing development inspections
-- 945 tons of debris removed from MS4 structures and facilities
-- 8,318 tons of debris removed through street sweeping efforts
-- 1,450 high priority development structural BMP inspections
-- 123 public outreach events conducted
+- 1,952 investigations of non-storm water discharges conducted
+- 1,459 non-storm water discharges eliminated
+- 1,299 illicit discharges/connections eliminated
+- 7,615 construction site inspections
+- 4,932 existing development inspections
+- 3,017 tons of debris removed from MS4 structures and facilities
+- 5,494 tons of debris removed through street sweeping efforts
+- 1,617 high priority development structural BMP inspections
+- 104 public outreach events conducted
 
-The RAs also participated in several regional efforts to improve water quality in the Carlsbad WMA (Appendix D). For example, RAs improved the Project Clean Water website to increase educational resources, promoted the “52 Ways to Love Your Water” pledge to spread storm water awareness, and sponsored several I Love a Clean San Diego clean-up events. Clean-up events resulted in the removal of over 13,400 pounds of trash and recyclables in the Carlsbad WMA and approximately 81,129 pounds region wide.
+The RAs also participated in several regional efforts to improve water quality in the Carlsbad WMA
+(Appendix D). For example, RAs improved the Project Clean Water website to increase educational
+resources, promoted the “52 Ways to Love Your Water” pledge to spread storm water awareness, and
+sponsored several I Love a Clean San Diego clean-up events. Clean-up events resulted in the removal of
+over 21,043 pounds of trash and recyclables in the Carlsbad WMA and approximately 76,980 pounds
+region wide.
 
 The following sub-sections present the upcoming interim and final goals and progress toward goals for each HA. Monitoring performed as part of the goal progress assessment is presented, and each sub-section concludes with strategy implementation highlights to address the respective HPWQC.
 

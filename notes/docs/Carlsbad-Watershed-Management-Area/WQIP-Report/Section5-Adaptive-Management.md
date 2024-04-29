@@ -9,24 +9,31 @@ As part of the adaptive management process, the RAs use information and data acq
 
 Updates and minor modifications to the WQIP, JRMPs, and BMP Design Manuals are presented in this section.
 ## 5.1 Updates
-The adaptive management process may prompt updates to the WQIP and respective JRMPs. Updates to the WQIP require the collaboration of the RAs and follow, as applicable, a public participation process similar to that implemented during WQIP development. The public participation process includes soliciting data and information and consultation with the WQIP Consultation Panel. Updates can be provided in the WQIP annual reports or the Report of Waste Discharge (ROWD). WQIP updates may include significant changes to the highest priority water quality conditions, numeric goals, or monitoring and assessment. BMP Design Manual updates or JRMP updates, such as program modifications and/or amendments to the JRMPs, are performed as needed by RAs.
+The adaptive management process may prompt updates to the WQIP and respective JRMPs. Updates to
+the WQIP require the collaboration of the RAs and follow, as applicable, a public participation process
+similar to that implemented during WQIP development. The public participation process includes
+soliciting data and information and consultation with the WQIP Consultation Panel. Updates can be
+provided in the WQIP annual reports or the Report of Waste Discharge (ROWD). WQIP updates may
+include significant changes to the highest priority water quality conditions, numeric goals, or monitoring
+and assessment. BMP Design Manual updates or JRMP updates, such as program modifications and/or
+amendments to the JRMPs, are performed as needed by RAs
 
-Updates to the WQIP, respective JRMPs, and BMP Design Manuals during the reporting period are presented in the following sections.
+Updates to the WQIP, respective JRMPs, and BMP Design Manuals during the reporting period are
+presented in the following sections.
+
 
 ### 5.1.1	JRMPs and BMP Design Manuals
 FY23 JRMP and BMP Design Manual updates are presented below.
 
 **BMP Design Manual Update**
-
+<ul>
+    <li>The City of Carlsbad up......</li>
+</ul>
 - The City of Carlsbad updated its BMP Design Manual in January 2023 to clarify trash capture implementation, incorporation of Green Street Guidance, and general errata.
 - The City of Encinitas updated its BMP Design Manual during this period to incorporate updated definitions to routine pavement maintenance projects and to adopt sizing guidance and methodology for proprietary biofiltration systems to meet the MEP treatment standard for PDPs. The draft final version of the BMP Design Manual has been completed and will be included in the City’s JRMP Annual Report submittal to the Regional Board. These updates will be implemented pending receipt of a formal acceptance letter from the Regional Board. 
 - The City of Escondido updated its Storm Water Design Manual (BMP Design Manual) in October 2022.
 - The City of Oceanside updated its BMP Design Manual to include Trash Amendments requirements for new and re-development meeting PDP thresholds.
 - The City of San Marcos updated its BMP Design Manual in February 2023. A summary of the updates is provided in the City’s JRMP Annual Report, which is provided in Appendix C. The updated BMP Design manual is available [here](https://www.san-marcos.net/departments/development-services/watershed/development-planning) 
-
-**JRMP Updates**
-
-
 
 
 ### 5.1.2 JRMPs and BMP Design Manuals

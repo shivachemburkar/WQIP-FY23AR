@@ -22,3 +22,11 @@
   justify-content: center;
 }
 
+.markdown ul li {
+  list-style-type: disc;
+}
+
+.markdown ul {
+  list-style-type: disc !important; /* Use !important to ensure it overrides other styles */
+  padding-left: 20px !important; /* Ensure the padding is applied */
+}
