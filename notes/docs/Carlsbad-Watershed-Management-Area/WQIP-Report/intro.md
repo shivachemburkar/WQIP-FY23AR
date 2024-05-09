@@ -73,7 +73,7 @@ The WMA composition by jurisdictional land area for each of the six HAs is prese
 ### Figure 3: Carlsbad Watershed Management Area
 
 ## 1.2 Document Organization
-The WQIP Annual Report for FY22 is organized as follows:
+The WQIP Annual Report for FY23 is organized as follows:
 
 **Section 1 Introduction.** This section provides an overview of the background and purpose of the report and a description of the watershed.
 
@@ -85,7 +85,7 @@ The WQIP Annual Report for FY22 is organized as follows:
 
 **Section 5 WQIP Revisions.** This section summarizes WQIP updates, adaptive management efforts, and minor modifications identified for the WQIP and JRMPs.
 
-**Section 6 Conclusions.** This section provides conclusions based on the data collected and assessments conducted during the implementation of the WQIP in FY22.
+**Section 6 Conclusions.** This section provides conclusions based on the data collected and assessments conducted during the implementation of the WQIP in FY23.
 
 **Section 7 References.** This section lists the sources used to prepare this Annual Report.
 
