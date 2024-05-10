@@ -288,56 +288,39 @@
  
  /* Header Hero */
  
- .HeaderHero {
-   padding-top: 20px;
- }
- 
- .HeaderHero .TwoColumns .column {
-   max-width: initial;
- }
- 
- .HeaderHero .socialLinks {
-   display: flex;
-   justify-content: flex-end;
-   max-width: 1200px;
-   margin: -10px auto 0;
- 
-   .github-button {
-     margin-right: 1rem;
-     margin-left: 1rem;
-   }
- }
- 
- .HeaderHero .TwoColumns {
-   align-items: center;
- }
- 
- .HeaderHero .title {
-   font-size: 84px;
-   color: var(--brand);
-   line-height: 1;
-   margin-top: 0;
-   margin-bottom: 20px;
-   font-weight: 500;
- }
- 
- .HeaderHero .tagline {
-   font-size: 36px;
-   line-height: 1.3;
-   color: white;
-   font-weight: 500;
- }
- 
- .HeaderHero .buttons {
-   margin-top: 40px;
- }
- 
- .HeaderHero .image {
-   display: flex;
-   align-items: center;
-   justify-content: center;
- }
- 
+ :root {
+  --dark-grey: #333; // Dark grey color
+}
+
+.hero--primary {
+  background-color: var(--dark-grey) !important; // Ensure override
+  width: 100vw; // Ensure it takes full viewport width
+  max-width: 100%; // Prevent any overflow
+  box-sizing: border-box; // Includes padding and border in the element's total width and height
+}
+
+
+.container {
+  width: 100%;
+  max-width: screen; // or as per your design requirement
+  padding: 0;
+  margin: 0 auto; // Center the container
+}
+
+.hero--primary {
+  padding: 20px 0; // Adjust padding as needed
+}
+
+// If using flexbox or other display settings, ensure they are correct
+.HeaderHero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; // Stack children vertically
+}
+
+
+
  @media only screen and (min-width: 961px) {
    .HeaderHero .TwoColumns {
      grid-template-columns: 3fr 1fr;
@@ -361,6 +344,12 @@
      text-align: center;
    }
  }
+
+ @media only screen and (max-width: 960px) {
+  .hero--primary {
+      padding: 10px 15px; // Reduced padding on smaller screens
+  }
+}
  
  @media only screen and (max-width: 760px) {
    .HeaderHero .title {

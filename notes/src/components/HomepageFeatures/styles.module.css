@@ -9,3 +9,19 @@
   height: 200px;
   width: 200px;
 }
+
+.lightBackground {
+  background-color: #f7f7f7; /* Light grey background */
+  padding: 40px 0; /* Add some vertical padding */
+  text-align: center; /* Center-align the content */
+}
+
+.riverElement {
+  margin-top: 20px; /* Space above the river element */
+  height: 300px; /* Specify height or adjust as needed */
+  background-color: #ececec; /* Different background for visibility, adjust as needed */
+}
+
+.buttons {
+  margin-bottom: 20px; /* Space below the button */
+}
