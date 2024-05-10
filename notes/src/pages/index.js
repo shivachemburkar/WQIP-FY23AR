@@ -7,6 +7,26 @@ import imgMap from '../../static/img/CWMA.png';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
+function RiverElement() {
+  return (
+    <section className="NativeApps Section light" style={{ backgroundImage: `url(${useBaseUrl('img/river.jpg')})` }}>
+      <div className="TwoColumns reverse">
+        <div className="column first right">
+          <div>
+            <h2 className="Heading">Read up on the Water Quality health in the different hydrologic areas of the Carlsbad Watershed Management Area</h2>
+            <div dangerouslySetInnerHTML={{ __html: "Your introductory text here" }} />
+          </div>
+        </div>
+        <div className="column last left">
+          <img alt="Phones" src={useBaseUrl('img/homepage/phones.png')} />
+        </div>
+      </div>
+    </section>
+  );
+}
+
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -20,7 +40,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/Carlsbad-Watershed-Management-Area">
+            to="/docs/Carlsbad-Watershed-Management-Area/WQIP-Report/Introduction">
             Let's Get Started!
           </Link>
         </div>
@@ -38,7 +58,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
-        
+        <RiverElement />
       </main>
     </Layout>
   );

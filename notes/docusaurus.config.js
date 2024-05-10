@@ -43,35 +43,31 @@ const config = {
         {
           type: 'docSidebar',
           sidebarId: 'fullReportSidebar',
-          position: 'left',
-          label: 'Comprehensive Report',
+          position: 'right',
+          label: 'Carlsbad WMA',
         },
         {
           type: 'docSidebar',
           sidebarId: 'appendicesSidebar',
           docId: 'Appendices/overview',
-          position: 'left',
+          position: 'right',
           label: 'Appendices',
         },
         {
           type: 'docSidebar',
           sidebarId: 'attachmentsSidebar',
           docId: 'Attachments/Attachments',
-          position: 'left',
+          position: 'right',
           label: 'Attachments',
         },
         {
           type: 'docSidebar',
           sidebarId: 'summaryReportSidebar',
-          position: 'left',
-          label: 'Numeric Goals Progress',
+          position: 'right',
+          label: 'RETURN TO SITE',
+          href: 'www.carlsbadwatershed.org'
         },
-        {
-          type: 'docSidebar',
-          sidebarId: 'summaryReportSidebar',
-          position: 'left',
-          label: 'Numeric Goals Progress',
-        },
+        
       ],
     },
     footer: {
