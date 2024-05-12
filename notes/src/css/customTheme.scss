@@ -1,3 +1,9 @@
+/**
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
 
  @import "shared";
 
@@ -13,7 +19,7 @@
    --rn-note-background: rgba(255, 229, 100, 0.25);
    --ifm-font-family-base: "Optimistic Display", system-ui, -apple-system,
      sans-serif;
-   --ifm-color-primary: #287a91;
+   --ifm-color-primary: #06bcee;
    --ifm-font-size-base: 17px;
    --ifm-spacing-horizontal: 16px;
    --ifm-navbar-item-padding-horizontal: 18px;
@@ -1862,3 +1868,4 @@
  figcaption > p:last-child {
    margin-bottom: 0;
  }
+ 

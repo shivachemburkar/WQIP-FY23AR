@@ -10,10 +10,23 @@ const config = {
   favicon: 'img/logo.png',
   url: 'https://report.ogawa.us',
   baseUrl: '/',
+  // redirects: [{
+  //   from: '/',
+  //   to: '/docs/Carlsbad-Watershed-Management-Area/Overview',
+  // }],
   organizationName: 'Mikhail Ogawa Engineering',
   projectName: 'docusaurus',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
+  customFields: {
+    redirects: [
+      // Redirect / to /docs/Carlsbad-Watershed-Management-Area/Goals%20Progress%20Overview
+      {
+        from: '/',
+        to: '/docs/Carlsbad-Watershed-Management-Area/Overview',
+      },
+    ],
+  },
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'fr', 'es-ES'],
