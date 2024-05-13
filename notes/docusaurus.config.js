@@ -92,15 +92,15 @@ const config = {
           items: [
             {
               label: 'Report Breakdown',
-              to: '/docs/intro',
+              to: '/docs/Carlsbad-Watershed-Management-Area/WQIP-Report/Introduction',
             },
             {
               label: 'Water Quality Improvement Results',
-              to: '/wqipgoals',
+              to: '/docs/Carlsbad-Watershed-Management-Area/WQIP-Report/Water%20Quality%20Improvements',
             },
             {
               label: 'Appendices',
-              to: '/docs/intro',
+              to: '/docs/category/appendices-1',
             },
           ],
         },
@@ -109,7 +109,7 @@ const config = {
           items: [
             {
               label: 'Current WQIP',
-              href: 'https://projectcleanwater.org/download/carlsbad-wma-wqip-updated-2021/',
+              href: 'https://www.dropbox.com/scl/fi/eogjxnlrpbhnruzcl0y28/CWMA-WQIP-FY23-AR-Final.pdf?rlkey=tj9aj1lqbrk5xtst3xm7g52wh&st=og3579yi&dl=0',
             },
             {
               label: 'Project Clean Water',
