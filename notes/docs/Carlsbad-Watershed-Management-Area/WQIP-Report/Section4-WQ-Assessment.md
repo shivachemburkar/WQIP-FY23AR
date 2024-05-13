@@ -201,19 +201,168 @@ As stated above, the RAs continue implementing strategies to improve water quali
 
 ---
 
-## 4.2
+## 4.2 Additional Receiving Water Assessment 
 
+Heal the Bay, an environmental non-profit organization, develops an annual beach report card designed to provide beachgoers with reliable beach water quality information. The 2022-2023 Annual Beach Report Card (2023, Heal the Bay) is a summary of the past year’s water quality, specifically Fecal Indicator Bacteria (FIB), for three distinct periods:
+
+- Summer dry weather – April 2022 through October 2022
+- Winter dry weather – November 2022 through March 2023
+- Year-round wet weather conditions – April 2022 through March 2023
+
+The Report Card classifies beaches along the West Coast (Washington, Oregon, and California) on an A through F grading scale. The complete report is included as Attachment 5 and the grading methodology is provided in the report.
+
+Based on the review and analysis of FIB sampling data, no Carlsbad WMA beaches were placed on the Beach Report Card’s Honor Roll. In past years, six Carlsbad WMA beaches were consistently Honor Roll beaches. For a beach to make the Honor Roll, the beach had to have been monitored weekly year-round and receive only exceptional (A+) grades during all seasons and weather conditions. Per Beach Report Card, “only two out of over 500 monitored beaches made it on the Honor Roll compared to 51 last year. Unfortunately, the unprecedented amount of rain that fell across California during the 2022–2023 winter led to an enormous dip in water quality and a very short Honor Roll list.”
+
+22 Carlsbad WMA sites were assigned grades in the Beach Report Card:
+
+- 85% of the 13 sites monitored during the summer dry weather period received an A+ or A grade.
+- 75% of the 4 sites monitored during the winter dry weather period received an A+ or A grade.
+- 52% of the 21 sites monitored during the year-round wet weather period received an A+, A, or B grade.
+
+>Samples taken during or within 72 hours of a rain event. Heal the Bay used a definition of a rain event in California as
+precipitation greater than or equal to one tenth of an inch (>=0.1”).
+
+### Figure 33: Heal the Bay Carlsbad WMA Sites
 ---
 
-## 4.3
+## 4.3 MS4 Outfall Monitoring 
 
+During the reporting period, the RAs conducted the MS4 Outfall Monitoring Program to monitor the discharges from the priority MS4 outfalls within the Carlsbad WMA during dry and wet weather conditions. The 2022-2023 wet and dry weather monitoring results for the MS4 Outfall Monitoring Program are summarized in the following sections. Detailed information and assessments are provided in Attachment 3.
+
+##### 4.3.1 Wet Weather MS4 Outfall Monitoring 
+
+The Carlsbad WMA RAs performed wet weather MS4 outfall discharge monitoring to characterize pollutants in storm water discharges from the MS4, guide pollutant source identification efforts, and track progress in achieving goals, where applicable. The eight monitored wet weather MS4 outfall locations in the WMA are presented in Table 19. Wet weather MS4 outfall sites remain unchanged for the 2022-2023 monitoring year.
+
+
+>**Storm Water Action Levels (SALs)**
+The level of a pollutant or constituent
+during wet weather that when exceeded
+indicates control measures may need to
+be evaluated and source investigations
+may need to be prioritized.
+
+### Table 19: 2022-2023 MS4 Outfall Monitoring Locations
+| Site ID    | Jurisdictional Site ID | Responsible Agency | HSA Name/ No. | Latitude | Longitude  |
+|------------|------------------------|--------------------|---------------|----------|------------|
+| MS4-CAR-1  | 16C-61                 | City of Carlsbad   | Los Manos / 904.31 | 33.1460  | -117.3380  |
+| MS4-CAR-2  | CBS-10 (75SWOUTL)     | City of Encinitas  | San Elijo / 904.61 | 33.0181  | -117.2817  |
+| MS4-CAR-3  | ESC_108**              | City of Escondido  | Escondido / 904.62 | 33.14789 | -117.03923 |
+| MS4-CAR-4  | LA-048*                | City of Oceanside  | Loma Alta / 904.1  | 33.2111  | -117.2706  |
+| MS4-CAR-5  | B-02                   | City of San Marcos | Richland / 904.52  | 33.146   | -117.16024 |
+| MS4-CAR-6  | North Rios (NRIO)     | City of Solana Beach | San Elijo / 904.61 | 33.0039  | -117.2721  |
+| MS4-CAR-7  | BV-1                   | City of Vista      | El Salto / 904.21  | 33.1827  | -117.2839  |
+| MS4-CAR-8  | MS4-CAR-007*           | County of San Diego | San Elijo / 904.61 | 33.0329  | -117.2352  |
+
+>*Monitoring location added in 2015-2016 monitoring year.
+** Monitoring location added in 2020-2021 monitoring year.
+
+The wet weather MS4 outfall monitoring program measured and compared parameters to applicable Storm Water Action Levels (SALs). Parameters with SALs are listed below. Enterococcus and E. Coli do not have SALs but were measured and compared to the statistical threshold value (STV) per the Bacteria Provisions (State Water Board, 2018) (San Diego Region Basin Plan, September 2021).
+
+- Turbidity
+- Total Cadmium 
+- Total Copper
+- Total Lead
+- Total Zinc
+- Nitrate + Nitrite as N 
+- Total Phosphorus
+
+Results from the samples collected during wet weather events are compared to SALs to indicate the performance of storm water control measures. If a pollutant/constituent is above the SAL, it may indicate that control measures need to be evaluated or source investigations need to be prioritized. If a constituent is at or below the SAL, then it is not expected to impact receiving water quality, and no further action is necessary.
+
+
+### Figure 34: 2022-2023 Wet Weather MS4 Outfall Monitoring Locations
+
+During the 2022-2023 monitoring year, the eight outfalls were monitored once in the wet season across four storm events. The storm events total rainfall amounts ranged from 1.4 inches to 1.65 inches. Results for total cadmium, total copper, total lead, total zinc, and turbidity at all monitored sites were below applicable SALs. One result, Nitrate + Nitrite as N, exceeded the SAL at two outfalls. Fecal indicator bacteria (Enterococcus and E. Coli) results were above the applicable SAL at all eight wet weather monitoring locations. In all, 52 out of 69 wet weather analytical results (75%) were in compliance with the applicable action levels.
+
+SALs support the development and prioritization of water quality improvement strategies for reducing pollutants in storm water discharges from the MS4s and can assess the effectiveness of strategy implementation. The RAs are implementing strategies targeting the constituents that exceeded SALs and will continue to evaluate progress. Fecal indicator bacteria, the constituent with the most prevalent SAL exceedances, is a PWQC or HPWQC for numerous waterbodies in the watershed, and strategies to address FIB are being implemented.
+
+### 4.3.2 Dry Weather MS4 Outfall Monitoring 
+The RAs performed monitoring to identify non-storm water and illicit discharges within their respective jurisdictions. The Dry Weather MS4 Outfall Monitoring Program includes field observations (field screening) and analytical monitoring of prioritized major MS4 outfalls. Efforts conducted during the 2022-2023 monitoring year are summarized below. Further information and data, including load assessments and methodology are included in Attachment 3 of this annual report.
+
+#### 4.3.2.1 Field Screening 
+During the 2022-2023 monitoring year, the RAs conducted a total of 8107 major MS4 outfall visual observations. During the observations, the RAs classified each outfall based on the following categories.
+- Persistent – having flowing, pooled, or ponded water more than 72 hours after a measurable rainfall event of 0.1 inches or greater during the three most recent consecutive monitoring and/or inspection events
+- Transient – having flowing, pooled, or ponded water during at least one but not on all three most recent consecutive monitoring and/or inspection events conducted more than 72 hours after rainfall with daily precipitation ≥0.1 inch
+- Tidal – having persistent or transient flow with ocean tides as the source
+- Dry – having no flowing, pooled, or ponded water during the previous three consecutive monitoring and/or inspection events conducted more than 72 hours after rainfall with daily precipitation ≥0.1 inch
+- Unknown – site cannot be evaluated or has not been visited enough times to determine flow status
+
+Fifty-one percent of observations (410 of 809) indicated no flow (dry or pooled/ponded conditions). Some flow observations were noted as a trickle, and not all of these flows were measurable. Of the observations where flows could be estimated, 62% (244 observations) had estimated flows less than five gallons per minute (gpm).
+
+Based on the observations, Figure 35 presents the flow determination category for the 483 major MS4 outfalls within the WMA during the 2022-2023 monitoring year.
+
+### Figure 35: 2022-2023 WMA Major MS4 Outfall Flow Determinations
+Dry Weather MS4 Monitoring Program
+
+In addition to classifying outfall flow characteristics, RAs recorded information on whether there was a
+potential non-storm water flow source and type, whether the flow source was eliminated, and if there
+was evidence of any illegal connections/illicit discharges (see Attachment 3) RAs investigate the source 
+flow to identify and eliminate non-storm water discharges when applicable. Irrigation runoff was the most 
+commonly known or suspected source of non-storm water flow from persistent or transient outfalls found 
+during the investigations. Other sources included residential washing, water line breaks, pool discharges,
+or other illicit discharges/connections. Known and suspected groundwater sources were also identified,
+and rationales for each groundwater designation can be found in Attachment 3.
+
+#### 4.3.2.2 Highest Priority Persistently Flowing Outfalls 
+Several changes were made to the highest priority outfall locations compared to the previous monitoring 
+period (2021-2022). The City of Carlsbad completed a study and subsequently reprioritized three major 
+outfalls (see Table 20), namely 19C-1, 29B-94, and 55A-51, as it was determined that groundwater was 
+the source of their flow. These three outfalls were replaced with three new sites (38D-13, 58A-73, and 
+63A-49) whose flow sources remain unidentified. For more details on the City of Carlsbad's source 
+identification study, please refer to Attachment 6. In addition, the City of San Marcos replaced outfall 
+OUT064 when it was determined that INL11196 was defined at the start of the receiving water.
+
+### Table 20: Carlsbad HPPF Outfall Site Lists
+
+#### 4.3.2.3 Analytical Sampling 
+In the 2022-2023 monitoring year, analytical sampling 
+was conducted at 29 highest priority persistently flowing 
+MS4 outfalls. The analytical results were compared to
+non-storm water action levels (NALs) to evaluate the
+potential contribution of pollutants from outfall
+discharges. NALs support the development and
+prioritization of water quality improvement strategies as
+they provide information to assess the effectiveness of
+strategy implementation and support the detection and elimination of non-storm water and illicit
+discharges to the MS4. Overall, in the 2022-2023 monitoring year, approximately 77% of analytical results
+from the highest priority outfall sites were below the applicable NALs. Summary result findings are as
+follows:
+- All samples measured for dissolved oxygen met the NAL as did the majority of samples for
+pH (88%) and turbidity (91%).
+- All results for methylene blue active substances (MBAS) were below the NAL.
+- 100% of results for dissolved fractions of hexavalent chromium, trivalent chromium, iron,
+lead, silver, and zinc were below the applicable NAL.
+- Dissolved cadmium, dissolved nickel, and dissolved copper are the only dissolved metals
+with results above the NAL.
+- Total manganese had 35% of samples above the NAL, and 17% were above the NAL for iron.
+- 85% of samples for total nitrogen and 72% of samples for total phosphorus were above the
+NALs.
+- In all but two samples, at least one indicator bacteria result was above the applicable NAL.
 
 ---
-## 4.4
+## 4.4 3rd Party Monitoring Data
+In November 2021, the Cities of Carlsbad and Oceanside received Buena Vista Creek monitoring data
+from the Preserve Calavera North San Diego County Watershed Monitoring Program, a 3
+rd party
+organization. The group’s dataset from 2019 to 2023 can be found at the following [link](https://www.preservecalavera.org/?page_id=2418)
 
+The data largely supports current PWQCs identified in the WQIP. The RAs will continue to review the 3rd party group’s data as applicable.
 
 ---
 ## 4.5 Special Studies and Additional Investigations 
+Special studies8 are conducted by the RAs to collect data and information that can assist in improving the
+effectiveness or efficiency of water quality strategies being implemented. Special studies can identify
+emerging conditions that prompt future attention, and may be completed on a regional, watershed, or
+jurisdictional basis. While special studies may be completed within a specific HA or focus area, the
+information obtained from special studies can often be applied to other WMA areas, sources, or
+programs.
+The MS4 Permit defines minimum requirements for special studies related to HPWQCs, implemented in
+WMA, and require some form of participation by all the RAs within the WMA. The Carlsbad RAs completed
+and exceeded the number of MS4 Permit required special studies. The RAs also perform additional
+monitoring or assessments that do not necessarily fulfill MS4 Permit requirements of a special study.
+These studies are referred to as ‘additional investigations’ to differentiate between MS4 Permit defined
+special studies and are often performed on a jurisdictional level to address or research PWQCs.
+Table 21 summarizes the special studies and additional investigations conducted in the WMA over the
+current MS4 Permit cycle and indicates whether the study is complete.
 
 ### Table 21: Carlsbad WMA WQIP Special Studies and Additional Investigations Overview
 | MS4 Permit Special Study or Investigation | Description | Status & Findings |
