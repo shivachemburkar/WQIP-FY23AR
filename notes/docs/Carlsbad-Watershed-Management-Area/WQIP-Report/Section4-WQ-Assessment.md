@@ -192,14 +192,8 @@ growing lines, as they contribute to contamination in shellfish tissue.
 ### Figure 31. Agua Hedionda Lagoon: Fecal Coliform Data
 ![Figure 31:](../../../static/img/Figures/Figure-31.png)
 
-as compared to National Shellfish Sanitation Program Geometric Mean benchmark for Restricted and Conditionally
-Restricted Shellfish Harvesting, (2011 – 2022), CDPH
-
 ### Figure 32. Agua Hedionda Lagoon: Fecal Coliform Data
 ![Figure 32:](../../../static/img/Figures/Figure-32.png)
-
-as Compared to National Shellfish Sanitation Program 90th Percentile benchmark for Restricted and Conditionally Restricted
-Shellfish Harvesting (2011 – 2022), CDPH
 
 #### 4.1.3.2 REC-1 Beneficial Use 
 
@@ -308,8 +302,6 @@ Based on the observations, Figure 35 presents the flow determination category fo
 
 ### Figure 35: 2022-2023 WMA Major MS4 Outfall Flow Determinations
 ![Figure 35:](../../../static/img/Figures/Figure-35.png)
-
-Dry Weather MS4 Monitoring Program
 
 In addition to classifying outfall flow characteristics, RAs recorded information on whether there was a
 potential non-storm water flow source and type, whether the flow source was eliminated, and if there
