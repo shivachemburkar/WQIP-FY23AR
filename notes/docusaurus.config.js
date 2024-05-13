@@ -45,12 +45,12 @@ const config = {
     ],
   ],
   themeConfig: {
-    image: 'img/logo.png',
+    image: 'img/trees.png',
     navbar: {
       title: 'Home',
       logo: {
         alt: 'Site Logo',
-        src: 'img/logo.png',
+        src: 'img/trees.png',
       },
       items: [
         {
@@ -78,7 +78,8 @@ const config = {
           sidebarId: 'summaryReportSidebar',
           position: 'right',
           label: 'RETURN TO SITE',
-          href: 'www.carlsbadwatershed.org'
+          href: 'http://www.carlsbadwatershed.org',
+          target: '_self',
         },
         
       ],
