@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 id: Water Quality Improvements
+description: A breakdown of the different types of progress made in water quality in the Carlsbad Watershed during 2023
 ---
 
 # Section 3: Water Quality Improvements

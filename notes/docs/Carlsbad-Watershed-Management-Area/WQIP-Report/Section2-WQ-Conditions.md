@@ -3,7 +3,7 @@ sidebar_position: 2
 id: Water Quality Conditions
 # id: water-quality-conditions
 title: Section 2 Current Water Conditions
-description: To understand React Native fully, you need a solid foundation in React. This short introduction to React can help you get started or get refreshed.
+description: Current Water Quality Conditions around the Hydrologic Areas of the CWMA
 ---
 # Section 2: Current Water Conditions
 ## Water Quality Conditions

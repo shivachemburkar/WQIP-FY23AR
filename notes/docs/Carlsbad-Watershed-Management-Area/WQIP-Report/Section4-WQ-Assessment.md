@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 id: Assessment of Water Quality
+description: A breakdown of the monitoring efforts taken to assess water quality around the CWMA
 ---
 
 # Section 4: Water Quality Assessment Program

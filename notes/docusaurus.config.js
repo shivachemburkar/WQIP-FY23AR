@@ -122,8 +122,8 @@ const config = {
           title: '3rd Party Information',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Hydrology and Water Quality in SD County',
+              to: 'https://www.sandiegocounty.gov/content/dam/sdc/deh/Vector/peir/Ch.3.1.5_Hydrology.pdf',
             },
             {
               label: 'MOE Website',

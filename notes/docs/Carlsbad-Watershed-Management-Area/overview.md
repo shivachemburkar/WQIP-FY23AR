@@ -2,7 +2,7 @@
 sidebar_position: 1
 id: overview
 title: Overview
-description: This helpful guide lays out the prerequisites for learning React Native, using these docs, and setting up your environment.
+description: A breakdown of the different sections in the 2023 WQIP Report for the Carlsbad Watershed Management Area
 ---
 
 import Tabs from '@theme/Tabs'; import TabItem from '@theme/TabItem'; import constants from '@site/core/TabsConstants';
