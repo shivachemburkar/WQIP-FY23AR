@@ -8,7 +8,7 @@ description: This helpful guide lays out the prerequisites for learning React Na
 import Tabs from '@theme/Tabs'; import TabItem from '@theme/TabItem'; import constants from '@site/core/TabsConstants';
 
 <div className="content-banner">
-  We are excited to present to you a highly organized, bookmarked version of the Carlsbad Watershed Management Area Water Quality Improvement Plan Report for 2023! We have one area dedicated to displaying specific <a href="www.carlsbadwatershed.org"> HPWQ goals </a> for each Hydrologic area. Continue reading this section of our website for an introduction to the full report.
+  We are excited to present to you a highly organized, bookmarked version of the Carlsbad Watershed Management Area Water Quality Improvement Plan Report for 2023! We have one area dedicated to displaying specific <a href="https://www.carlsbadwatershed.org"> HPWQ goals </a> for each Hydrologic area. Continue reading this section of our website for an introduction to the full report.
   
 </div>
 
