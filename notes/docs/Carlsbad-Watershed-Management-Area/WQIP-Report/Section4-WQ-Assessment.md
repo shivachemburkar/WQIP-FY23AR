@@ -38,7 +38,7 @@ been without measurable precipitation
 
 ---
 
-### 4.1 Receiving Water Monitoring
+## 4.1 Receiving Water Monitoring
 
 The sections below summarize the receiving water monitoring conducted during the reporting period. Long-term receiving water monitoring is required once per permit term and was completed in the 2014-2015 monitoring and assessment program period. The next receiving water monitoring is anticipated after the MS4 Permit is reissued and adopted. Receiving water monitoring related to WQIP goals is presented in the applicable HA sub-sections in Section 3 of this report.
 
@@ -100,6 +100,121 @@ stated their intent is to move forward with participating in the Bight ’23 pro
 analyzing samples at the sites in question. Based on the results, RAs will coordinate with RWQCB staff on 
 the next actions, if any.
 
+### 4.1.2 Storm Water Monitoring Coalition Regional Bioassessment Program 
+The Southern California Storm Water Monitoring Coalition (SMC) began an approach to evaluate the biological condition of California’s wadeable streams in southern California’s coastal watersheds in 2009. The RAs have participated in the monitoring effort since the program’s inception. The first five years (2009-2013) of this program established a baseline for monitoring trends. In 2021, the third iteration of the 5-year SMC Work Plan was initiated to build off the initial surveys (SCCWRP 2021).
+
+>**2021-2025 Storm Water Monitoring Coalition
+(SMC) Bioassessment Program** 
+What are considered **“Trend”** sites are sampled either once during
+the five-year work plan (i.e., ‘Panel 1’ Trend
+sites) or sampled 3 to 4 times during this
+monitoring cycle (i.e., ‘Panel 2’ Trend sites).
+**“Condition”** sites are randomly selected and
+do not remain consistent from year to year.
+
+In accordance with the SMC Workplan, the monitoring conducted during the 2022-2023 monitoring year incorporated the following components:
+- Benthic macroinvertebrate (BMI) sample collection and identification
+- Diatom sample collection and identification, soft-bodied algae collection for archive
+- Water quality chemistry sample collection and analysis
+- Physical habitat (PHAB) assessment
+- Physical riparian habitat assessment (California Rapid Assessment Method (CRAM))
+
+During the 2022-2023 monitoring year, monitoring was conducted at two sites. The first was condition site 904M21800, which is situated on Loma Alta Creek in the City of Oceanside. This site was visited on June 28, 2023. The second site was panel 2 trend site SMC00537, a natural bottom channel in the Escondido Creek HA. This site was visited on June 27, 2023. Bioassessment metrics are summarized in
+Table 17, and results are presented in Table 18.
+
+### Table 17: Bioassessment Metrics
+
+### Table 18: SMC Regional Bioassessment Program Reporting Period BMI and Algae Results Summary
+
+>1 CRAM score of 76 and 78 indicates a high capacity to perform beneficial habitat functions.
+2 Duplicate sample scored 0.47, Very Likely Altered condition class.
+3Duplicate sample scored 0.44, Very Likely Altered
+
+The Loma Alta Creek condition site, 904M21800, (see Figure 29) has biological community scores indicating that the BMI community is likely altered (CSCI score of 0.71), while the diatom community appears degraded (ASCI score of 0.72, Very Likely Altered). Several studies have demonstrated that the BMI community responds strongly to physical habitat and hydrologic-regime related stressors, whereas the algal community responds to nutrient and water chemistry-related stressors (Theroux, 2020, Mazor, 2015). 
+
+A CRAM score of 58 indicates that some measures of physical habitat at 904M21800 are of moderate quality. The lowest scoring CRAM attribute sub-score was related to limited habitat buffer due to the site proximity to urban development. SWAMP physical habitat assessment measures indicate the stream is limited in flow habitat diversity, composed primarily of glides and pool habitat with few riffles. While all of the water quality analytes were below their respective benchmarks specific conductivity, chloride, total hardness, and sodium values were relatively high. 
+
+Station 904M21800 scored poorly for three of the six diatom ASCI sub metrics indicating an abundance of diatom taxa tolerant to disturbance, taxa tolerant of eutrophic conditions, and taxa tolerant to increased salinity environments.
+
+### Figure 29: SMC Condition Site 904M21800
+Loma Alta Creek, in City of Oceanside (Weston Solutions)
+
+The biological community index scores at site SMC00537 indicate that the BMI and diatom algal communities are Very Likely Altered (CSCI score of 0.42, ASCI score of 0.53). The physical habitat at SMC00537 is of relatively high quality, as indicated by the CRAM score of 76. However, the stream bed is of low gradient, and the riparian buffer community is of limited width and habitat quality. Specific conductivity, chloride, sulfate, and total nitrogen values at SMC00537 were elevated (Table 3-4). 
+
+Specific conductivity is a measurement of the ability of water to conduct electricity where dissolved ions (i.e., Na+, Ca+2, SO4-2, etc.) serve as the conductor (Clean Water Team [CWT] Fact Sheet-3.1.3.0(EC)V2e, 2004). As such, specific conductance is related to TDS content. Although the effect of elevated TDS on BMI is variable among different taxa and not well understood, several studies have demonstrated a correlation between changes in conductivity/TDS and both altered BMI (Minshall and Minshall, 1978) and algal communities (Leland and Porter, 2000). 
+
+Results from the first SMC five-year report suggested that elevated TDS is a condition common to the entire region, affecting 76% of stream miles in southern California (Mazor, 2015). Station SMC00537 scored poorly for five of the six diatom ASCI sub-metrics indicating an abundance of diatom taxa tolerant to disturbance, taxa tolerant of eutrophic conditions, and taxa tolerant to increased salinity environments.
+
+
+### Figure 30: SMC Condition Site 904M21800
+Loma Alta Creek, in City of Oceanside (Weston Solutions)
+
+Refer to Attachment 4 for results and details on the 2022-2023 Stream Bioassessment Monitoring.
+
+### 4.1.3 Agua Hedionda Lagoon 
+
+The following efforts were performed during the reporting period as part of the Agua Hedionda Phased Approach Addressing Indicator Bacteria to protect SHELL and REC-1 Beneficial Uses in Agua Hedionda Lagoon – see Appendix D for details.
+
+#### 4.1.3.1 SHELL Beneficial Use 
+
+Phase I of the Agua Hedionda SHELL approach aims to assess whether water quality in Agua Hedionda Lagoon supports commercial shellfish harvesting under open conditions. Attainment of the Phase I objective is supported by the continued implementation of strategies to improve water quality in the Lagoon and a monitoring and assessment component focused on evaluating available monitoring data within the shellfish growing area. 
+
+FY23 strategies implemented by RAs include:
+
+- Bacteria reduction strategies (e.g., property-based inspections, outreach to homeowners’ associations, irrigation runoff reduction)
+- Human source reduction strategies (e.g., strategies to address homelessness, Sanitary Sewer Management Plans (SSMPs), Onsite Wastewater Treatment System (OWTS) investigations)
+- The City of Carlsbad and County of San Diego participated in a Bacteria Summit to discuss water 
+safety standards and research needs. Key takeaways include the need for more research, 
+collaboration among agencies, and the interest in a shellfish safety index.
+
+>5 Beneficial uses for commercial shellfish harvesting are monitored and managed by the California Department of 
+Public Health (CDPH). Open condition refers to the time period in which shellfish harvesting is allowed by CDPH. 
+CDPH practice throughout the State is to suspend harvesting operations following rain events. In Agua Hedionda 
+Lagoon the threshold for “closure” is defined as >0.4” over a 24-hour period with a closure length of 72 hours. In the 
+case of extreme weather events, defined as >1.5” over 24 hours or >3.00” over 7 days, harvesting is closed 
+indefinitely until sample results are below thresholds established by the National Shellfish Sanitation Program 
+(NSSP). All harvested shellfish are also subject to a depuration process to ensure that they are safe for consumption. 
+Thisis common practice due to the filter feeding nature ofshellfish and is not indicative of beneficial use impairment, 
+but rather practical management of shellfish harvesting operations to protect public health.
+
+Monitoring data, see Figure 31 and Figure 32, in the shellfish growing area met quality benchmarks, 
+supporting the SHELL beneficial use. Still, efforts are needed to deter birds from roosting among the 
+growing lines, as they contribute to contamination in shellfish tissue.
+
+### Figure 31. Agua Hedionda Lagoon: Fecal Coliform Data
+as compared to National Shellfish Sanitation Program Geometric Mean benchmark for Restricted and Conditionally
+Restricted Shellfish Harvesting, (2011 – 2022), CDPH
+
+### Figure 32. Agua Hedionda Lagoon: Fecal Coliform Data
+as Compared to National Shellfish Sanitation Program 90th Percentile benchmark for Restricted and Conditionally Restricted
+Shellfish Harvesting (2011 – 2022), CDPH
+
+#### 4.1.3.2 REC-1 Beneficial Use 
+
+The objective of Phase I of the REC-1 Approach was to determine whether water quality conditions continue to support the REC-1 beneficial uses as indicated in previous studies (MACTEC, 2009; State Water Board, 2010). A monitoring and assessment component completed in September 2022 demonstrated that the REC-1 beneficial use is supported.
+
+As stated above, the RAs continue implementing strategies to improve water quality in the Lagoon and more effectively communicate potential water quality concerns to the public, including:
+
+- Bacteria reduction strategies (e.g., property-based inspections, outreach to homeowners’ associations, irrigation runoff reduction)
+- Human source reduction strategies (e.g., strategies to address homelessness, Sanitary Sewer Management Plans (SSMPs), Onsite Wastewater Treatment System (OWTS) investigations)
+- Improved the signage posted at public access points to the Lagoon
+
+---
+
+## 4.2
+
+---
+
+## 4.3
+
+
+---
+## 4.4
+
+
+---
+## 4.5 Special Studies and Additional Investigations 
+
 ### Table 21: Carlsbad WMA WQIP Special Studies and Additional Investigations Overview
 | MS4 Permit Special Study or Investigation | Description | Status & Findings |
 |-------------------------------------------|-------------|------------------|
@@ -125,6 +240,7 @@ some form of participation by all the Copermittees within the WMA. The Carlsbad 
 MS4 Permit required special studies. The RAs also perform additional monitoring that are included as special studies. In some
 cases, these studies address PWQC and are performed on a jurisdictional level.
 ---
+
 
 ## 4.6 Re-Evaluation of Water Quality Conditions
 
