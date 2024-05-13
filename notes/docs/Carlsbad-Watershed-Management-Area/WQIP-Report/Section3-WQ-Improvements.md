@@ -433,7 +433,7 @@ Riparian habitat degradation is the HPWQC for the Escondido Creek HA (Figure 23)
 goals, progress toward those goals, and strategy highlights are presented in the following sub-sections.
 
 #### Figure 23: Escondido Creek Hydrologic Area
-
+![Figure 23:](../../../static/img/Figures/Figure-23.png)
 
 ### 3.4.1 Goal Progress
 In the Escondido Creek HA, the Spruce Street Channel Rehabilitation Project (Spruce Street Project) is
@@ -479,6 +479,7 @@ Strategy highlights in this section present the efforts to establish and improve
 The City of Escondido has made steady progress toward Escondido Creek HA interim and final goals. During FY22, construction work and plant installation were completed (Figure 24). Plant establishment, vegetation maintenance, and erosion control measures continued through FY23. Final agency sign-off for project revegetation is expected in FY24, at which time the project will be deemed completed.
 
 #### Figure 24: Spruce Street Channel Rehabilitation Project (2021)
+![Figure 24:](../../../static/img/Figures/Figure-24-Spruce-Street.png)
 
 ### 3.4.2.1 High Priority Water Quality Condition Strategy Highlights 
 
@@ -520,5 +521,11 @@ Currently, no HPWQCs are identified in the Buena Vista Creek and Encinas HAs (Fi
 respectively). Without HPWQCs, no interim and final goals for the HAs are established. However, the
 Buena Vista Creek and Encinas HA RAs implemented strategies in the HAs to protect or improve water
 quality. Appendix D lists and summarizes efforts in the Encinas and Buena Vista Creek HAs.
+
+#### Figure 26 Buena Vista Hydrologic Area
+![Figure 26:](../../../static/img/Figures/Figure-26.png)
+
+#### Figure 27 Encinas Hydrologic Area
+![Figure 27:](../../../static/img/Figures/Figure-27.png)
 
 ---

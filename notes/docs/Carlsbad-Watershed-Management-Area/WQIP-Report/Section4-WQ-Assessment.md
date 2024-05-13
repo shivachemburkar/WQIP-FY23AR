@@ -58,6 +58,9 @@ Sediment quality (chemistry, toxicity, and benthic infauna) sampling in the Carl
 ### Table 14: Bight ’18 Sampling Locations within the Carlsbad WMA
 
 ### Figure 28: Carlsbad WMA Bight '18 and Bight ’23 Monitoring Locations
+![Figure 28:](../../../static/img/Figures/Figure-28.png)
+
+
 
 #### 4.1.1.2 Confirmation Monitoring 
 In September 2019, the RAs initiated an investigation to confirm and characterize the Possibly Impacted
@@ -138,6 +141,8 @@ A CRAM score of 58 indicates that some measures of physical habitat at 904M21800
 Station 904M21800 scored poorly for three of the six diatom ASCI sub metrics indicating an abundance of diatom taxa tolerant to disturbance, taxa tolerant of eutrophic conditions, and taxa tolerant to increased salinity environments.
 
 ### Figure 29: SMC Condition Site 904M21800
+![Figure 29:](../../../static/img/Figures/Figure-29.png)
+
 Loma Alta Creek, in City of Oceanside (Weston Solutions)
 
 The biological community index scores at site SMC00537 indicate that the BMI and diatom algal communities are Very Likely Altered (CSCI score of 0.42, ASCI score of 0.53). The physical habitat at SMC00537 is of relatively high quality, as indicated by the CRAM score of 76. However, the stream bed is of low gradient, and the riparian buffer community is of limited width and habitat quality. Specific conductivity, chloride, sulfate, and total nitrogen values at SMC00537 were elevated (Table 3-4). 
@@ -148,6 +153,8 @@ Results from the first SMC five-year report suggested that elevated TDS is a con
 
 
 ### Figure 30: SMC Condition Site 904M21800
+![Figure 30:](../../../static/img/Figures/Figure-30.png)
+
 Loma Alta Creek, in City of Oceanside (Weston Solutions)
 
 Refer to Attachment 4 for results and details on the 2022-2023 Stream Bioassessment Monitoring.
@@ -183,10 +190,14 @@ supporting the SHELL beneficial use. Still, efforts are needed to deter birds fr
 growing lines, as they contribute to contamination in shellfish tissue.
 
 ### Figure 31. Agua Hedionda Lagoon: Fecal Coliform Data
+![Figure 31:](../../../static/img/Figures/Figure-31.png)
+
 as compared to National Shellfish Sanitation Program Geometric Mean benchmark for Restricted and Conditionally
 Restricted Shellfish Harvesting, (2011 – 2022), CDPH
 
 ### Figure 32. Agua Hedionda Lagoon: Fecal Coliform Data
+![Figure 32:](../../../static/img/Figures/Figure-32.png)
+
 as Compared to National Shellfish Sanitation Program 90th Percentile benchmark for Restricted and Conditionally Restricted
 Shellfish Harvesting (2011 – 2022), CDPH
 
@@ -224,6 +235,8 @@ Based on the review and analysis of FIB sampling data, no Carlsbad WMA beaches w
 precipitation greater than or equal to one tenth of an inch (>=0.1”).
 
 ### Figure 33: Heal the Bay Carlsbad WMA Sites
+![Figure 33:](../../../static/img/Figures/Figure-33.png)
+
 ---
 
 ## 4.3 MS4 Outfall Monitoring 
@@ -271,6 +284,8 @@ Results from the samples collected during wet weather events are compared to SAL
 
 
 ### Figure 34: 2022-2023 Wet Weather MS4 Outfall Monitoring Locations
+![Figure 34:](../../../static/img/Figures/Figure-34.png)
+
 
 During the 2022-2023 monitoring year, the eight outfalls were monitored once in the wet season across four storm events. The storm events total rainfall amounts ranged from 1.4 inches to 1.65 inches. Results for total cadmium, total copper, total lead, total zinc, and turbidity at all monitored sites were below applicable SALs. One result, Nitrate + Nitrite as N, exceeded the SAL at two outfalls. Fecal indicator bacteria (Enterococcus and E. Coli) results were above the applicable SAL at all eight wet weather monitoring locations. In all, 52 out of 69 wet weather analytical results (75%) were in compliance with the applicable action levels.
 
@@ -292,6 +307,8 @@ Fifty-one percent of observations (410 of 809) indicated no flow (dry or pooled/
 Based on the observations, Figure 35 presents the flow determination category for the 483 major MS4 outfalls within the WMA during the 2022-2023 monitoring year.
 
 ### Figure 35: 2022-2023 WMA Major MS4 Outfall Flow Determinations
+![Figure 35:](../../../static/img/Figures/Figure-35.png)
+
 Dry Weather MS4 Monitoring Program
 
 In addition to classifying outfall flow characteristics, RAs recorded information on whether there was a
