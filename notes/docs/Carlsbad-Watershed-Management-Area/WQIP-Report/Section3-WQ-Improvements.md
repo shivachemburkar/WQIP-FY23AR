@@ -85,7 +85,7 @@ _Note: The County of San Diego is no longer a Responsible Agency (RA) in the Lom
 
 ### 3.1.2 Hydrologic Area Strategy Highlights
 
-Strategies to highlight in the Loma Alta HA include the Loma Alta Slough Wetlands Enhancement Project and Garrison Creek Native Habitat Restoration Project strategies. As discussed below, both strategies are restoration efforts aimed to achieve multiple benefits including habitat enhancement, flood protection, water quality improvements, preservation of open space, and enhancing recreational opportunities. For additional strategies implemented in the HA during the reporting period, refer to **Appendix D**.
+Strategies to highlight in the Loma Alta HA include the Loma Alta Slough Wetlands Enhancement Project and Garrison Creek Native Habitat Restoration Project strategies. As discussed below, both strategies are restoration efforts aimed to achieve multiple benefits including habitat enhancement, flood protection, water quality improvements, preservation of open space, and enhancing recreational opportunities. For additional strategies implemented in the HA during the reporting period, refer to [**Appendix D**](/docs/Appendices/Appendices/Appendix%20D%20-%20Strategies).
 
 #### Loma Alta Slough Wetland Enhancement Project
 
@@ -235,7 +235,7 @@ Shaded italicized text denotes the selected compliance method to demonstrate pro
 
 ### 3.2.2 Numeric Goal Strategy Highlights
 
-Strategies to highlight in the Agua Hedionda HA include the Roman Creek Wetland Restoration Project, Agua Hedionda Creek Restoration Project, and other efforts that address riparian habitat degradation and hydromodification impacts. For further details and additional strategies implemented in the HA during the reporting period, refer to Appendix D.
+Strategies to highlight in the Agua Hedionda HA include the Roman Creek Wetland Restoration Project, Agua Hedionda Creek Restoration Project, and other efforts that address riparian habitat degradation and hydromodification impacts. For further details and additional strategies implemented in the HA during the reporting period, refer to [**Appendix D**](/docs/Appendices/Appendices/Appendix%20D%20-%20Strategies).
 
 #### Agua Hedionda Creek Restoration Project
 
@@ -317,7 +317,7 @@ presented in the following sub-sections.
 
 ### 3.3.1.2 Highest Priority Water Quality Condition Strategy Highlights 
 
-Strategies highlighted in this section include the ultraviolet (UV) bacteria treatment facility strategy, evaluation of the sanitary sewer maintenance and overflow protection strategy, and the pet waste bag dispensers strategy. These strategies target FIB reductions through treatment and source control and support progress toward interim and final goals. For additional strategies implemented in the Lower San Marcos Creek portion of the HA during the reporting period, refer to Appendix D.
+Strategies highlighted in this section include the ultraviolet (UV) bacteria treatment facility strategy, evaluation of the sanitary sewer maintenance and overflow protection strategy, and the pet waste bag dispensers strategy. These strategies target FIB reductions through treatment and source control and support progress toward interim and final goals. For additional strategies implemented in the Lower San Marcos Creek portion of the HA during the reporting period, refer to [**Appendix D**](/docs/Appendices/Appendices/Appendix%20D%20-%20Strategies).
 
 #### Evaluate Sanitary Sewer Maintenance and Overflow Prevention 
 
@@ -365,7 +365,7 @@ In FY19-20, the County initiated a partnership with The Fairways HOA in the Lake
 
 Based on available data, the Responsible Agencies have identified 53 residences and businesses that are likely on septic systems. A total of 26 of the 53 (49%) identified residences and businesses received outreach consisting of mailed letters and fliers. 
 
-For additional strategies implemented in the HA during the reporting period, refer to Appendix D.
+For additional strategies implemented in the HA during the reporting period, refer to [**Appendix D**](/docs/Appendices/Appendices/Appendix%20D%20-%20Strategies).
 
 #### Figure 18: Fairways HOA Turf Replacement Project - Before
 ![Figure 18:](../../../static/img/Figures/Figure-18.png)
@@ -478,7 +478,7 @@ advancement of project implementation, as presented in Table 10.
 
 ### 3.4.2 Numeric Goal Strategy Highlights 
 
-Strategy highlights in this section present the efforts to establish and improve riparian habitat/native vegetation in the Escondido Creek HA. Riparian/native vegetation are essential components of healthy watersheds that provide critical habitat for wildlife, work as buffers to filter pollutants such as nutrients and sediment, reduce creek bank erosion, and maintain stable creek channel geomorphology. For additional strategies implemented in the HA during the reporting period, refer to Appendix D.
+Strategy highlights in this section present the efforts to establish and improve riparian habitat/native vegetation in the Escondido Creek HA. Riparian/native vegetation are essential components of healthy watersheds that provide critical habitat for wildlife, work as buffers to filter pollutants such as nutrients and sediment, reduce creek bank erosion, and maintain stable creek channel geomorphology. For additional strategies implemented in the HA during the reporting period, refer to [**Appendix D**](/docs/Appendices/Appendices/Appendix%20D%20-%20Strategies).
 
 #### City of Escondido: Spruce Street Channel Rehabilitation Project (Spruce Street Project) 
 

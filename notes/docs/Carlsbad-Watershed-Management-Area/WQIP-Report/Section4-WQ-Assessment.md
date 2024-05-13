@@ -151,8 +151,6 @@ Station 904M21800 scored poorly for three of the six diatom ASCI sub metrics ind
 ### Figure 29: SMC Condition Site 904M21800
 ![Figure 29:](../../../static/img/Figures/Figure-29.png)
 
-Loma Alta Creek, in City of Oceanside (Weston Solutions)
-
 The biological community index scores at site SMC00537 indicate that the BMI and diatom algal communities are Very Likely Altered (CSCI score of 0.42, ASCI score of 0.53). The physical habitat at SMC00537 is of relatively high quality, as indicated by the CRAM score of 76. However, the stream bed is of low gradient, and the riparian buffer community is of limited width and habitat quality. Specific conductivity, chloride, sulfate, and total nitrogen values at SMC00537 were elevated (Table 3-4). 
 
 Specific conductivity is a measurement of the ability of water to conduct electricity where dissolved ions (i.e., Na+, Ca+2, SO4-2, etc.) serve as the conductor (Clean Water Team [CWT] Fact Sheet-3.1.3.0(EC)V2e, 2004). As such, specific conductance is related to TDS content. Although the effect of elevated TDS on BMI is variable among different taxa and not well understood, several studies have demonstrated a correlation between changes in conductivity/TDS and both altered BMI (Minshall and Minshall, 1978) and algal communities (Leland and Porter, 2000). 
@@ -163,9 +161,7 @@ Results from the first SMC five-year report suggested that elevated TDS is a con
 ### Figure 30: SMC Condition Site 904M21800
 ![Figure 30:](../../../static/img/Figures/Figure-30.png)
 
-Loma Alta Creek, in City of Oceanside (Weston Solutions)
-
-Refer to Attachment 4 for results and details on the 2022-2023 Stream Bioassessment Monitoring.
+Refer to [Attachment 4](/docs/Attachments/Attachments/SMC%20Monitoring%20Report) for results and details on the 2022-2023 Stream Bioassessment Monitoring.
 
 ### 4.1.3 Agua Hedionda Lagoon 
 
@@ -326,7 +322,7 @@ period (2021-2022). The City of Carlsbad completed a study and subsequently repr
 outfalls (see Table 20), namely 19C-1, 29B-94, and 55A-51, as it was determined that groundwater was 
 the source of their flow. These three outfalls were replaced with three new sites (38D-13, 58A-73, and 
 63A-49) whose flow sources remain unidentified. For more details on the City of Carlsbad's source 
-identification study, please refer to Attachment 6. In addition, the City of San Marcos replaced outfall 
+identification study, please refer to [Attachment 6](/docs/Attachments/Attachments/HP%20Persistent%20Flow%20Outfall%20Source%20IDs). In addition, the City of San Marcos replaced outfall 
 OUT064 when it was determined that INL11196 was defined at the start of the receiving water.
 
 ### Table 20: Carlsbad HPPF Outfall Site Lists
