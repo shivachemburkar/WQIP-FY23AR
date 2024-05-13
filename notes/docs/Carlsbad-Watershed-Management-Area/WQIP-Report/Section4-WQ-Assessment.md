@@ -36,8 +36,69 @@ where the preceding 72 hours have
 been without measurable precipitation
 (>0.1 inch).
 
+---
 
+### 4.1 Receiving Water Monitoring
 
+The sections below summarize the receiving water monitoring conducted during the reporting period. Long-term receiving water monitoring is required once per permit term and was completed in the 2014-2015 monitoring and assessment program period. The next receiving water monitoring is anticipated after the MS4 Permit is reissued and adopted. Receiving water monitoring related to WQIP goals is presented in the applicable HA sub-sections in Section 3 of this report.
+
+#### 4.1.1 Southern California Bight Regional Monitoring Program
+
+The Southern California Bight 2023 Regional Monitoring Program (Bight ’23) completed its sampling efforts during the summer and early fall of 2023. See Figure 28 for monitoring locations. The results of the monitoring are expected to be included in the FY24 WQIP annual report.
+
+The Bight ’18 was the 7th iteration of a multi-agency (including Carlsbad WMA RAs) collaborative effort led by the Southern California Coastal Water Research Project (SCCWRP). Bight program participants develop, plan, and implement a monitoring program to answer specific questions during each five-year program cycle. Planning documents for Bight ’18 were completed in 2018. Five final assessment reports are available on the SCCWRP website, and the remaining reports will be available online as they are completed.
+
+The following sections present findings from the Sediment Quality sampling efforts in 2018, confirmation monitoring efforts in 2019, and source identification efforts from this reporting period.
+
+##### 4.1.1.1 Sediment Quality Sampling
+
+Sediment quality (chemistry, toxicity, and benthic infauna) sampling in the Carlsbad WMA was performed at six locations (three locations in both Agua Hedionda Lagoon and Batiquitos Lagoon) on September 11 and 12, 2018 (Table 14 and Figure 28). Final sediment quality objective (SQO) station level assessments for each station in the two lagoons and individual lines of evidence are provided in Table 15.
+
+### Table 14: Bight ’18 Sampling Locations within the Carlsbad WMA
+
+### Figure 28: Carlsbad WMA Bight '18 and Bight ’23 Monitoring Locations
+
+#### 4.1.1.2 Confirmation Monitoring 
+In September 2019, the RAs initiated an investigation to confirm and characterize the Possibly Impacted
+station in each lagoon and collected additional information at the Likely Impacted stations identified
+through the sediment monitoring efforts in 2018. Confirmation monitoring was performed per the
+Sediment Quality Objectives Confirmation Monitoring Work Plan (Weston Solutions, 2019), and results
+are presented in Table 16.
+
+### Table 16: Confirmation Monitoring Mean SQO Results (September 2019)
+
+#### 4.1.1.3 Sediment Stressor Identification 
+After confirmation monitoring, the RAs prepared and submitted a Stressor Identification Work Plan
+(Weston, 2021) to the RWQCB to identify and understand sources of water quality impacts. The RWQCB
+approved this work plan in May 2021, and field sampling was performed in FY22. The Sediment Stressor
+Identification Study Report (FY22 Carlsbad WQIP Annual Report - Attachment 8) presents the September
+2019 Confirmation Monitoring efforts and provides a detailed analysis and discussion of stressor
+identification results.
+
+Toxicity Identification Evaluations (TIEs), chemistry and biological analyses, and historical data from
+previous surveys within Agua Hedionda Lagoon and Batiquitos Lagoon were used for the Sediment
+Stressor Identification Monitoring study. This information was used to identify if the monitoring stations'
+stressors were related to toxic pollutants in the sediments or disturbancesto the water column. The study
+included three sites: two sites in Agua Hedionda Lagoon (B18-10168 and B18-10169 and one in Batiquitos
+Lagoon (B18-10171).
+
+For one site in Agua Hedionda Lagoon (B18-10168) and the site in Batiquitos Lagoon (B18-10171), TIE
+efforts were initiated to determine the cause of toxicity. There were no causal sources of toxicity
+identified, and ultimately a determination of the cause of toxicity in sediments was not found for either
+site.
+
+Low chemistry and toxicity scores suggest that chemical exposure at Agua Hedionda Lagoon site B18-
+10169 was not a source of biological disturbance, therefore, a TIE was not performed at the site. Based 
+on the benthic community stressor evaluation, the benthic community was typical of a southern California 
+shallow-water lagoon and did not appear to be negatively impacted by chemically mediated effects. 
+Agua Hedionda Lagoon is highly dynamic and influenced by conditions such as tides, currents, eddies,
+recreational activities, groundwater exchange, and freshwater input. While not quantified, anthropogenic
+physical disturbance (e.g., boat wash, paddle disruption, boat groundings, tramping via paddlers wading,
+etc.) may be a potential cause of the sediment results.
+In FY23, the RAs continued coordinating with RWQCB staff regarding data and potential next actions. RAs 
+stated their intent is to move forward with participating in the Bight ’23 program and collecting and 
+analyzing samples at the sites in question. Based on the results, RAs will coordinate with RWQCB staff on 
+the next actions, if any.
 
 ### Table 21: Carlsbad WMA WQIP Special Studies and Additional Investigations Overview
 | MS4 Permit Special Study or Investigation | Description | Status & Findings |

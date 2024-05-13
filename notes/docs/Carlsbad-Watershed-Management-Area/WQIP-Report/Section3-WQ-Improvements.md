@@ -84,7 +84,7 @@ Strategies to highlight in the Loma Alta HA include the Loma Alta Slough Wetland
 
 #### Loma Alta Slough Wetland Enhancement Project
 
-The Loma Alta Slough Wetlands Enhancement Project addresses the priority eutrophic water quality condition at Loma Alta Slough and aims to achieve multiple benefits through the restoration of ecological functions and protection of infrastructure from future climate-driven impacts. The project has existed in a conceptual phase for years as the City of Oceanside worked to acquire private properties surrounding the Slough beginning in the 1990s. In 2018, the city was awarded a Proposition 1 planning grant from the ...
+The Loma Alta Slough Wetlands Enhancement Project addresses the priority eutrophic water quality condition at Loma Alta Slough and aims to achieve multiple benefits through the restoration of ecological functions and protection of infrastructure from future climate-driven impacts. The project has existed in a conceptual phase for years as the City of Oceanside worked to acquire private properties surrounding the Slough beginning in the 1990s. In 2018, the city was awarded a Proposition 1 planning grant from the
 
 #### Figure 7: Loma Alta Slough
 
