@@ -175,6 +175,8 @@ above the SEP restoration success criteria target of 65% native cover.
 
 Before and after photos of east restoration area between 2021 and early 2023
 
+---
+
 ## 3.2 Agua Hedionda Hydrologic Area
 
 The HPWQCs for the Agua Hedionda HA (Figure 13) are riparian habitat degradation and
@@ -267,6 +269,8 @@ Each RA developed rehabilitation programs as part of their jurisdictional progra
 ### Agua Hedionda Creek Vegetation Maintenance Project
 
 Within the City of Carlsbad, long-term maintenance of Agua Hedionda Creek between the Cannon Road and El Camino Real bridges is necessary to reduce flooding upstream. To improve the creek's flood capacity, limited vegetation is permitted within this portion of the creek. This project is a five-year project per the CDFW Streambed Alteration Agreement (SAA) Notification No. 1600-2013-0302-R5. The permit was extended through 2024, and associated work was performed in October 2022 and February 2023. Creek vegetation maintenance is vital to support optimal creek conveyance capacities and flood protection benefits. Vegetation maintenance removes obstructions from the channel, maximizing the flow potential and reducing the risk of flooding upstream.
+
+---
 
 ## 3.3 San Marcos Hydrologic Area 
 The San Marcos HA has two distinct areas separated by the Lake San Marcos impoundment – the Upper
@@ -388,6 +392,8 @@ The goal of the project is the reduction of nutrients, sediment, debris, bacteri
 
 #### Figure 22
 
+---
+
 ## 3.4 Escondido Creek Hydrologic Area 
 Riparian habitat degradation is the HPWQC for the Escondido Creek HA (Figure 23). The interim and final
 goals, progress toward those goals, and strategy highlights are presented in the following sub-sections.
@@ -472,8 +478,12 @@ been published.
 As managing partners of San Elijo Lagoon Ecological Reserve, the County of San Diego Department of Parks
 and Recreation, Nature Collective, and CDFW will continue to protect sensitive natural resources.
 
+---
+
 ## 3.5 Buena Vista Creek and Encinas Hydrologic Areas 
 Currently, no HPWQCs are identified in the Buena Vista Creek and Encinas HAs (Figure 26 and Figure 27,
 respectively). Without HPWQCs, no interim and final goals for the HAs are established. However, the
 Buena Vista Creek and Encinas HA RAs implemented strategies in the HAs to protect or improve water
 quality. Appendix D lists and summarizes efforts in the Encinas and Buena Vista Creek HAs.
+
+---

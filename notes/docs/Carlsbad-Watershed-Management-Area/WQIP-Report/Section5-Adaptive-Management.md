@@ -68,6 +68,8 @@ In FY22, the City of Carlsbad and City of Vista updated their respective BMP Des
 - The City of Vista’s updated JRMP is available on the city’s [website](https://www.cityofvista.com/departments/engineering/water-quality-protection/watersheds
 )
 
+---
+
 ## 5.2 Minor Modifications
 Corrections, additions, or administrative changes to the WQIP or respective JRMPs may be needed for document accuracy or to update implementation efforts. Minor modifications may include changes to activity frequencies, facility inspection inventories, or focus areas identified in the WQIP. These modifications may arise based on the implementation feedback process and may require quick management decisions to support the identified goals and schedules.
 

@@ -4,9 +4,6 @@ id: Introduction
 ---
 
 # Section 1: Introduction
-
-Let's discover **HPWQC Testing, Monitoring, Results**. *INSERT FIGURE HERE*
-
 ## Introduction
 
 The Carlsbad Watershed Management Area (WMA) Water Quality Improvement Plan (WQIP) was prepared by the cities of Carlsbad, Encinitas, Escondido, Oceanside, San Marcos, Solana Beach, Vista, and the County of San Diego (herein referred to as Responsible Agencies (RAs)) in accordance with the San Diego Region National Pollutant Discharge Elimination System (NPDES) Permit and Waste Discharge Requirements for Discharges from the Municipal Separate Storm Sewer System (MS4) Draining the Watersheds Within the San Diego Region (MS4 Permit) under Order No. R9-2013-0001, as amended by Order Nos. R9-2015-0001 and R9-2015-0100. The Carlsbad WMA WQIP was accepted by the San Diego Regional Water Quality Control Board (RWQCB) in November 2016. The WQIP was updated in May 2018 and September 2021 (Carlsbad WMA Responsible Agencies, 2021).
@@ -86,3 +83,5 @@ The WMA composition by jurisdictional land area for each of the six HAs is prese
 | Escondido Creek (904.60)   | San Elijo Lagoon and Pacific Ocean     | 84.6           | 40%      | -        | 11%       | 29%       | -         | 4%         | 1%           | -     | 55%                 |
 
 **Note:** The percentages and details listed are based on the latest updates and may be subject to changes based on ongoing assessments and revisions.
+
+---

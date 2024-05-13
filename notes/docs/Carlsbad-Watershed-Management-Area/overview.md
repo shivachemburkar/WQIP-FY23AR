@@ -9,14 +9,14 @@ import Tabs from '@theme/Tabs'; import TabItem from '@theme/TabItem'; import con
 
 <div className="content-banner">
   We are excited to present to you a highly organized, bookmarked version of the Carlsbad Watershed Management Area Water Quality Improvement Plan Report for 2023! We have one area dedicated to displaying specific <a href="www.carlsbadwatershed.org"> HPWQ goals </a> for each Hydrologic area. Continue reading this section of our website for an introduction to the full report.
-  <img className="content-banner-img" src="/docs/assets/undraw_docusaurus_mountain" alt=" " />
+  
 </div>
 
 ## How to use this website
 
 You can start here and read through the entire Carlsbad Watershed Management Area Water Quality Improvement Plan Report for the 2023 fiscal year docs linearly like a book. You can also just skip to the specific sections you need using the sidebar on the left.
 
-> While we do our best to improve the reading experience of this report, you can access the full report pdf [here](https://projectcleanwater.org/download/carlsbad-wma-wqip-updated-2021/).
+> While we do our best to improve the reading experience of this report, you can access the full report pdf [here](https://www.dropbox.com/scl/fi/eogjxnlrpbhnruzcl0y28/CWMA-WQIP-FY23-AR-Final.pdf?rlkey=tj9aj1lqbrk5xtst3xm7g52wh&st=og3579yi&dl=0).
 
 ## Document Organization
 

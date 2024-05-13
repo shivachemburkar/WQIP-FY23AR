@@ -2,10 +2,10 @@
 sidebar_position: 2
 id: Water Quality Conditions
 # id: water-quality-conditions
-title: Current Water Conditions
+title: Section 2 Current Water Conditions
 description: To understand React Native fully, you need a solid foundation in React. This short introduction to React can help you get started or get refreshed.
 ---
-
+# Section 2: Current Water Conditions
 ## Water Quality Conditions
 
 In the WQIP, Responsible Agencies (RAs) identified Priority Water Quality Conditions (PWQCs) by evaluating receiving water conditions, MS4 discharges and their potential impacts, and potential sources of pollutants in the WMA. The WQIP also details the process the RAs used to identify the Highest Priority Water Quality Conditions (HPWQCs). Tables 2 and 3 list the HA-specific PWQCs and HPWQCs, respectively, per the 2021 WQIP.
@@ -73,4 +73,3 @@ Numeric goals and schedules were established for each HPWQC, and strategy implem
 
 ---
 
-Now that............. example text and [example `<TextInput>`](overview).
