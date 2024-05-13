@@ -3,7 +3,6 @@ sidebar_position: 1
 id: Appendix A - Permit Crosswalk
 ---
 
-## Appendices
 
 You can download the appendices document by clicking the link below:
 

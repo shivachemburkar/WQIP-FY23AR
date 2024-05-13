@@ -37,6 +37,8 @@ been without measurable precipitation
 (>0.1 inch).
 
 
+
+
 ### Table 21: Carlsbad WMA WQIP Special Studies and Additional Investigations Overview
 | MS4 Permit Special Study or Investigation | Description | Status & Findings |
 |-------------------------------------------|-------------|------------------|

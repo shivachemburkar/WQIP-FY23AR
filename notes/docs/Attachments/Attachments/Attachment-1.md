@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-id: Appendix 1 - Loma Alta Monitoring Data
+id: Loma Alta Monitoring Data
 ---
 
-## Appendices
+## Attachment 1 - Loma Alta Monitoring Data
 
 You can download the appendices document by clicking the link below:
 
