@@ -312,6 +312,8 @@ receiving water limitations identified in the TMDL), progress toward goals, and 
 presented in the following sub-sections.
 
 #### Table 6: Lower San Marcos HA Progress toward Interim and Final Numeric Goals
+![Table 6:](../../../static/img/Tables/Table-6.png)
+
 
 ### 3.3.1.2 Highest Priority Water Quality Condition Strategy Highlights 
 
@@ -373,6 +375,8 @@ For additional strategies implemented in the HA during the reporting period, ref
 
 
 ### Table 7: Upper San Marcos HA Progress toward Interim and Final Numeric Goals – Wet Weather
+![Table 7:](../../../static/img/Tables/Table-7.png)
+
 
 
 Shaded italicized text denotes the selected compliance method to demonstrate progress for the interim goal.
@@ -382,6 +386,8 @@ Shaded italicized text denotes the selected compliance method to demonstrate pro
 3 WQO for nutrients: In a creek just before entering a standing body of water = 0.05 mg/L Total Phosphorus and 0.5 mg/L Total Nitrogen. In the future, site-specific WQO may be developed.
 
 ### Table 8
+![Table 8:](../../../static/img/Tables/Table-8.png)
+
 
 ### 3.3.2.3 Highest Priority Water Quality Condition Strategy Highlights
 

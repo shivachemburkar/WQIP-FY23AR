@@ -56,6 +56,8 @@ The following sections present findings from the Sediment Quality sampling effor
 Sediment quality (chemistry, toxicity, and benthic infauna) sampling in the Carlsbad WMA was performed at six locations (three locations in both Agua Hedionda Lagoon and Batiquitos Lagoon) on September 11 and 12, 2018 (Table 14 and Figure 28). Final sediment quality objective (SQO) station level assessments for each station in the two lagoons and individual lines of evidence are provided in Table 15.
 
 ### Table 14: Bight ’18 Sampling Locations within the Carlsbad WMA
+![Table 14:](../../../static/img/Tables/Table-14+15.png)
+
 
 ### Figure 28: Carlsbad WMA Bight '18 and Bight ’23 Monitoring Locations
 ![Figure 28:](../../../static/img/Figures/Figure-28.png)
@@ -70,6 +72,8 @@ Sediment Quality Objectives Confirmation Monitoring Work Plan (Weston Solutions,
 are presented in Table 16.
 
 ### Table 16: Confirmation Monitoring Mean SQO Results (September 2019)
+![Table 16:](../../../static/img/Tables/Table-16.png)
+
 
 #### 4.1.1.3 Sediment Stressor Identification 
 After confirmation monitoring, the RAs prepared and submitted a Stressor Identification Work Plan
@@ -84,7 +88,7 @@ previous surveys within Agua Hedionda Lagoon and Batiquitos Lagoon were used for
 Stressor Identification Monitoring study. This information was used to identify if the monitoring stations'
 stressors were related to toxic pollutants in the sediments or disturbancesto the water column. The study
 included three sites: two sites in Agua Hedionda Lagoon (B18-10168 and B18-10169 and one in Batiquitos
-Lagoon (B18-10171).
+Lagoon (B18-10171)).
 
 For one site in Agua Hedionda Lagoon (B18-10168) and the site in Batiquitos Lagoon (B18-10171), TIE
 efforts were initiated to determine the cause of toxicity. There were no causal sources of toxicity
@@ -127,8 +131,12 @@ During the 2022-2023 monitoring year, monitoring was conducted at two sites. The
 Table 17, and results are presented in Table 18.
 
 ### Table 17: Bioassessment Metrics
+![Table 17:](../../../static/img/Tables/Table-17.png)
+
 
 ### Table 18: SMC Regional Bioassessment Program Reporting Period BMI and Algae Results Summary
+![Table 18:](../../../static/img/Tables/Table-18.png)
+
 
 >1 CRAM score of 76 and 78 indicates a high capacity to perform beneficial habitat functions.
 2 Duplicate sample scored 0.47, Very Likely Altered condition class.
@@ -322,20 +330,11 @@ identification study, please refer to Attachment 6. In addition, the City of San
 OUT064 when it was determined that INL11196 was defined at the start of the receiving water.
 
 ### Table 20: Carlsbad HPPF Outfall Site Lists
+![Table 20:](../../../static/img/Tables/Table-20.png)
+
 
 #### 4.3.2.3 Analytical Sampling 
-In the 2022-2023 monitoring year, analytical sampling 
-was conducted at 29 highest priority persistently flowing 
-MS4 outfalls. The analytical results were compared to
-non-storm water action levels (NALs) to evaluate the
-potential contribution of pollutants from outfall
-discharges. NALs support the development and
-prioritization of water quality improvement strategies as
-they provide information to assess the effectiveness of
-strategy implementation and support the detection and elimination of non-storm water and illicit
-discharges to the MS4. Overall, in the 2022-2023 monitoring year, approximately 77% of analytical results
-from the highest priority outfall sites were below the applicable NALs. Summary result findings are as
-follows:
+In the 2022-2023 monitoring year, analytical sampling was conducted at 29 highest priority persistently flowing MS4 outfalls. The analytical results were compared to non-storm water action levels (NALs) to evaluate the potential contribution of pollutants from outfall discharges. NALs support the development and prioritization of water quality improvement strategies as they provide information to assess the effectiveness of strategy implementation and support the detection and elimination of non-storm water and illicit discharges to the MS4. Overall, in the 2022-2023 monitoring year, approximately 77% of analytical results from the highest priority outfall sites were below the applicable NALs. Summary result findings are as follows:
 - All samples measured for dissolved oxygen met the NAL as did the majority of samples for
 pH (88%) and turbidity (91%).
 - All results for methylene blue active substances (MBAS) were below the NAL.
