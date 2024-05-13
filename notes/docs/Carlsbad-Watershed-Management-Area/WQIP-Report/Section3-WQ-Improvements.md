@@ -36,7 +36,7 @@ The following sub-sections present the upcoming interim and final goals and prog
 
 The Highest Priority Water Quality Condition (HPWQC) for the Loma Alta HA (Figure 4) is eutrophic conditions in the Loma Alta Slough between May and October. The interim and final goals, progress toward those goals, and strategy highlights are presented in the following sub-sections.
 
-<!-- ![Figure 4: Loma Alta Hydrologic Area](../../static/img/AndroidDeveloperMenu.png) -->
+![Figure 4: Loma Alta Hydrologic Area](../../../static/img/Figures/Figure-4.png)
 
 #### Figure of Loma Alta Hydrologic Area (Figure 4)
 
@@ -76,8 +76,12 @@ _Note: The County of San Diego is no longer a Responsible Agency (RA) in the Lom
 > HPWQC in the Carlsbad WMA through the adaptive management process outlined in Provision B of the MS4 Permit.
 
 #### Loma Alta Slough Progress toward Macroalgal Cover Goals (Figure 5)
+![Figure 5:](../../../static/img/Figures/Figure-5.png)
+
 
 #### Loma Alta Slough Progress toward Macroalgal Biomass Goals (Figure 6)
+![Figure 6:](../../../static/img/Figures/Figure-6.png)
+
 
 ### 3.1.2 Hydrologic Area Strategy Highlights
 
@@ -88,6 +92,8 @@ Strategies to highlight in the Loma Alta HA include the Loma Alta Slough Wetland
 The Loma Alta Slough Wetlands Enhancement Project addresses the priority eutrophic water quality condition at Loma Alta Slough and aims to achieve multiple benefits through the restoration of ecological functions and protection of infrastructure from future climate-driven impacts. The project has existed in a conceptual phase for years as the City of Oceanside worked to acquire private properties surrounding the Slough beginning in the 1990s. In 2018, the city was awarded a Proposition 1 planning grant from the
 
 #### Figure 7: Loma Alta Slough
+![Figure 7:](../../../static/img/Figures/Figure-7.png)
+
 
 State Coastal Conservancy to complete the
 required studies, preliminary design, and
@@ -109,6 +115,8 @@ approach, balancing the need for water quality improvements with flood risk redu
 infrastructure protection, and recreational opportunities through the inclusion of a trail system
 
 #### Figure 8: Loma Alta Slough
+![Figure 8:](../../../static/img/Figures/Figure-8.png)
+
 
 During the FY23 reporting period, substantial progress was made in readying the project for construction.
 In addition to prior committed construction funding of $1M from the US Fish & Wildlife Service, the Ocean
@@ -135,8 +143,12 @@ funding, as concerns persist that inflationary and economic pressures have incre
 for Phase 1.
 
 #### Figure 9: Graphic rendering of Phase 1 of the Loma Alta Wetlands Enhancement Project (ESA 2023).
+![Figure 9:](../../../static/img/Figures/Figure-9.png)
+
 
 #### Figure 10: Loma Alta Slough Wetlands
+![Figure 10:](../../../static/img/Figures/Figure-10.png)
+
 
 The city is coordinating the Enhancement Project construction with three important infrastructure
 projects in the vicinity of Loma Alta Slough, including the future decommissioning of the La Salina
@@ -145,6 +157,8 @@ encouraging climate-friendly transit, restoring historical wetland habitats, and
 of the value of open space creation and conservation.
 
 #### Figure 11: Garrison Creek Native Habitat Restoration Project
+![Figure 11:](../../../static/img/Figures/Figure-11.png)
+
 
 Garrison Creek Native Habitat Restoration Project
 In the FY23 reporting period, the City of Oceanside
@@ -173,6 +187,8 @@ event in July/August 2023, the restoration areas have increased to over 80% nati
 above the SEP restoration success criteria target of 65% native cover.
 
 #### Figure 12. Garrison Creek Native Habitat Restoration Project:
+![Figure 12:](../../../static/img/Figures/Figure-12.png)
+
 
 Before and after photos of east restoration area between 2021 and early 2023
 
@@ -185,6 +201,8 @@ hydromodification impacts. The interim and final goals, progress toward those go
 highlights are presented in the following sub-sections.
 
 #### Figure 13: Agua Hedionda Hydrologic Area
+![Figure 13:](../../../static/img/Figures/Figure-13.png)
+
 
 ### 3.2.1 Goal Progress
 
@@ -226,6 +244,8 @@ The City of Carlsbad’s Agua Hedionda Creek Restoration Project focuses on rest
 In FY17, Carlsbad met its goal by restoring 3.6 acres of wetland habitat near Agua Hedionda Creek and removing invasive species. In FY22, the city completed its fifth year of vegetation maintenance.
 
 #### FIGURE 14
+![Figure 14:](../../../static/img/Figures/Figure-14.png)
+
 
 The city is in progress toward achieving the next interim goal (2023) and final goal (2028), as identified in Table 5. In FY22, the City of Carlsbad awarded a $1,919,294 contract to support the extension of College Boulevard to the east of El Camino Real at Sunny Creek Road. The extension of College Boulevard is a long-term project, and creek restoration is planned to be completed as part of the project. Tasks to be completed through the issued contract include, but are not limited to:
 
@@ -251,7 +271,7 @@ In recognition of not achieving the 2023 Interim Goal, during FY24, the city wil
 Roman Creek is tributary to Agua Hedionda Creek and flows through Buena Vista Park (Figure 13). The Roman Creek Wetland Restoration Project is identified in the Carlsbad WMA WQIP as a strategy for wetland creation and enhancement to address hydromodification impacts and as a mitigation strategy to compensate for aquatic resource impacts from other city projects. Previous Carlsbad WMA annual reports detail field studies, design efforts, and environmental permitting activities associated with the Roman Creek project. To date, the city has expended $1,136,000 on the project.
 
 #### FIGURE 15
-<!-- ![Figure 15: Roman Creek Wetland Restoration Project Location](insert_image_link_here) -->
+![Figure 15:](../../../static/img/Figures/Figure-15.png)
 
 As previously reported, a request for proposals (RFP) was released in September 2021, soliciting design-build services for the Roman Creek project. The RFP detailed the full scope of services to design and construct the project to accomplish the WQIP numeric goal. In October 2022, one bid of $6,000,000 was submitted, which, while deemed acceptable, surpassed the allocated budget by over $2,300,000. Consequently, the city paused the project to consider value engineering options and evaluate funding during its Spring 2022 Capital Improvement Budget process. Based on the capital project needs for overall sewer system capacity and replacement projects, sufficient funds were unavailable to bridge the Roman Creek project funding gap. The city recognizes that achieving the 2023 interim and 2026 final wetland creation goals is in the balance.
 
@@ -280,6 +300,8 @@ HPWQCs. The HPWQCs, interim and final goals, progress toward those goals, and st
 the Upper San Marcos HA and Lower San Marcos HA are presented in Section 3.3.1 and 3.3.2,respectively.
 
 #### FIGURE 16  San Marcos Hydrologic Area
+![Figure 16:](../../../static/img/Figures/Figure-16.png)
+
 
 ### 3.3.1 Lower San Marcos Hydrologic Area 
 The HPWQC for Lower San Marcos HA isthe impairment ofrecreational (REC-1) beneficial use due to Fecal
@@ -300,6 +322,8 @@ Strategies highlighted in this section include the ultraviolet (UV) bacteria tre
 Evaluation of sanitary sewer maintenance and overflow protection targets anthropogenic sources of FIB and contribute to decreased FIB levels in the Lower San Marcos HA. The City of Encinitas has an annual sewer line maintenance schedule. The city utilizes a “hot-spot” cleaning list for observed or documented sewerline anomalies such as low flows, dips, or historic root problems. Encinitas maintains a 5-year closed-circuit television (CCTV) inspection cycle for all sewer lines throughout the city. Sewer spill records and a holistic assessment of the city’s sewer system maintenance program have concluded that there is no need for a change in maintenance frequency or FOG program policies at this time.
 
 #### Ultraviolet Bacteria Treatment Facility 
+![Figure 17:](../../../static/img/Figures/Figure-17.png)
+
 
 The City of Encinitas operates a UV treatment facility just upstream of Moonlight Beach, eliminating 99% of the FIB passing through the system. The city has an administrative agreement with the San Elijo Joint Powers Authority (SEJPA) to perform preventative and regular UV treatment facility maintenance, including daily monitoring, inspections, and startup and shutdown of the facility as dictated by rain events. In FY23, the facility was non-operational through continuous rain events beginning late December 2022 through mid-April 2023, as well as for short periods during other rain events throughout the reporting year. Despite observed winter rainfalls that nearly doubled historical annual averages, the facility was in operation for 214 days during the monitoring period. The daily average volume of water that passes through the UV treatment facility is approximately 144,000 gallons per day, which resulted in the treatment of an estimated 30.8 million gallons of flow during the reporting period. Riparian habitat along Cottonwood Creek downstream of the UV treatment facility is illustrated in Figure 17 above.
 
@@ -342,7 +366,11 @@ Based on available data, the Responsible Agencies have identified 53 residences 
 For additional strategies implemented in the HA during the reporting period, refer to Appendix D.
 
 #### Figure 18: Fairways HOA Turf Replacement Project - Before
+![Figure 18:](../../../static/img/Figures/Figure-18.png)
+
 #### Figure 19: Fairways HOA Turf Replacement Project - After
+![Figure 19:](../../../static/img/Figures/Figure-19.png)
+
 
 ### Table 7: Upper San Marcos HA Progress toward Interim and Final Numeric Goals – Wet Weather
 
@@ -362,6 +390,8 @@ Implement Preferred Watershed Remedy as Proposed through the Final Corrective Ac
 The City of San Marcos, the County of San Diego, and the City of Escondido continue to move forward with the preferred watershed remedies recommended in the Final Remedial Investigation/Feasibility Study (RI/FS) for the Upper San Marcos Creek HA. Table 9 summarizes the completed activities during this reporting period. A description of the various completed activities is detailed in Appendix D. All data and documentation related to the Lake San Marcos and Upper San Marcos Creek Water Quality Investigation can be viewed and obtained at the State of California GeoTracker website4.
 
 #### Figure 20
+![Figure 20:](../../../static/img/Figures/Figure-20.png)
+
 
 ### Table 9: FY23 RI/FS Efforts Conducted
 
@@ -381,6 +411,8 @@ The developer has also agreed to incorporate a nutrient-sensitive design for the
 Construction of the Canopy Grove project continued in FY23. Grading is complete, and nearly all 380 homes and the commercial village center are complete. In Villages 1 and 3, the nutrient-sensitive stormwater treatment basins were completed, and the remaining basins have been excavated and are waiting for the media to be placed. Offsite work continued, including a new signal light being installed at Nutmeg Street and County Club Lane.
 
 #### Figure 21
+![Figure 21:](../../../static/img/Figures/Figure-21.png)
+
 
 ### Implement Structural or Retrofit BMPs
 
@@ -392,6 +424,7 @@ The goal of the project is the reduction of nutrients, sediment, debris, bacteri
 
 
 #### Figure 22
+![Figure 22:](../../../static/img/Figures/Figure-22.png)
 
 ---
 
@@ -400,6 +433,7 @@ Riparian habitat degradation is the HPWQC for the Escondido Creek HA (Figure 23)
 goals, progress toward those goals, and strategy highlights are presented in the following sub-sections.
 
 #### Figure 23: Escondido Creek Hydrologic Area
+
 
 ### 3.4.1 Goal Progress
 In the Escondido Creek HA, the Spruce Street Channel Rehabilitation Project (Spruce Street Project) is
