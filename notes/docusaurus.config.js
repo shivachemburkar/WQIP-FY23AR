@@ -122,8 +122,8 @@ const config = {
           title: '3rd Party Information',
           items: [
             {
-              label: 'Hydrology and Water Quality in SD County',
-              to: 'https://www.sandiegocounty.gov/content/dam/sdc/deh/Vector/peir/Ch.3.1.5_Hydrology.pdf',
+              label: 'Hydrologic Areas',
+              to: 'https://projectcleanwater.org/watersheds/carlsbad-wma/#hydrologic',
             },
             {
               label: 'MOE Website',
