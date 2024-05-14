@@ -7,7 +7,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'Carlsbad Watershed Management Area WQIP FY22/23 Annual Report',
   tagline: 'Progress on water quality improvement goals',
-  favicon: 'img/logo.png',
+  favicon: 'img/trees.png',
   url: 'https://report.ogawa.us',
   baseUrl: '/',
   // redirects: [{
